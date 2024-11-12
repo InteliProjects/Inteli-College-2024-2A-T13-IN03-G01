@@ -1,0 +1,4974 @@
+{
+    "1,25-DIHIDROXI VITAMINA D - PESQUISA E/OU DOSAGEM": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": null
+    },
+    "17-ALFA-HIDROXIPROGESTERONA": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": null
+    },
+    "A FRESCO, EXAME": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": null
+    },
+    "ABLACAO CIRC ARRITMOGENICO P/CAT RADIOFREQUENCIA": {
+        "Categoria": "Procedimento Cardíaco",
+        "Doença": "Arritmia Cardíaca"
+    },
+    "ACIDO 5 HIDROXI INDOL ACETICO, DOSAGEM NA URINA": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": null
+    },
+    "ACIDO ASCORBICO (VITAMINA C)": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": null
+    },
+    "ACIDO CITRICO - PESQUISA E/OU DOSAGEM NA URINA": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": null
+    },
+    "ACIDO FOLICO, DOSAGEM NOS ERITROCITOS": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": null
+    },
+    "ACIDO LACTICO (LACTATO) - PESQUISA E/OU DOSAGEM": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": null
+    },
+    "ACIDO METIL MALONICO - PESQUISA E/OU DOSAGEM": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": null
+    },
+    "ACIDO OXALICO - PESQUISA E/OU DOSAGEM": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": null
+    },
+    "ACIDO URICO - PESQUISA E/OU DOSAGEM": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": null
+    },
+    "ACIDO VALPROICO - PESQUISA E/OU DOSAGEM": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": "Epilepsia"
+    },
+    "ACONSELHAMENTO GENETICO": {
+        "Categoria": "Consulta Médica",
+        "Doença": null
+    },
+    "ACROMIOPLASTIA - PROCED VIDEOARTROSCOPICO OMBRO": {
+        "Categoria": "Procedimento Cirúrgico",
+        "Doença": null
+    },
+    "ACUPUNTURA POR SESSAO": {
+        "Categoria": "Terapia Alternativa",
+        "Doença": null
+    },
+    "ADENO-AMIGDALECTOMIA": {
+        "Categoria": "Procedimento Cirúrgico",
+        "Doença": null
+    },
+    "ADENOIDECTOMIA": {
+        "Categoria": "Procedimento Cirúrgico",
+        "Doença": null
+    },
+    "ADENOSINA DE AMINASE (ADA)": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": null
+    },
+    "ADRENOCORTICOTROFICO, HORMONIO (ACTH)": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": null
+    },
+    "ALBUMINA - PESQUISA E/OU DOSAGEM": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": null
+    },
+    "ALDOLASE - PESQUISA E/OU DOSAGEM": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": null
+    },
+    "ALDOSTERONA - PESQUISA E/OU DOSAGEM": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": null
+    },
+    "ALERGENOS - PERFIL ANTIG (PAINEL C/36 ANTIGENOS)": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": "Alergias"
+    },
+    "ALFA -1-ANTITRIPSINA, (FEZES)": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": null
+    },
+    "ALFA-1-ANTITRIPSINA, PESQUISA E/OU DOSAGEM NO SORO": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": null
+    },
+    "ALFA-1-GLICOPROTEINA ACIDA - PESQUISA E/OU DOSAGEM": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": null
+    },
+    "ALFA-FETOPROTEINA - PESQUISA E/OU DOSAGEM": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": null
+    },
+    "ALUMINIO, PESQUISA E/OU DOSAGEM NO SORO": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": null
+    },
+    "AMILASE - PESQUISA E/OU DOSAGEM": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": null
+    },
+    "ANAL COMPUT PAPILA E/OU FIBRAS NERV MONOCULAR GDX": {
+        "Categoria": "Exame de Imagem",
+        "Doença": null
+    },
+    "ANAL SWAB, PESQUISA DE OXIURUS": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": "Oxiuríase"
+    },
+    "ANDROSTENEDIONA - PESQUISA E/OU DOSAGEM": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": null
+    },
+    "ANEST GERAL OU CONDUTIVA P/ REALIZ BLOQ NEUROLITIC": {
+        "Categoria": "Procedimento Anestésico",
+        "Doença": null
+    },
+    "ANESTESIA PARA ENDOSCOPIA DIAGNOSTICA": {
+        "Categoria": "Procedimento Anestésico",
+        "Doença": null
+    },
+    "ANESTESIA PARA ENDOSCOPIA INTERVENCIONISTA": {
+        "Categoria": "Procedimento Anestésico",
+        "Doença": null
+    },
+    "ANESTESIA PARA EXAMES DE RESSONANCIA MAGNETICA": {
+        "Categoria": "Procedimento Anestésico",
+        "Doença": null
+    },
+    "ANESTESIA PARA PROCEDIMENTOS CLINICOS AMBULATORIAIS E HOSPITALARES": {
+        "Categoria": "Procedimento Anestésico",
+        "Doença": null
+    },
+    "ANGIO-RM ARTERIAL DE CRANIO": {
+        "Categoria": "Exame de Imagem",
+        "Doença": null
+    },
+    "ANGIO-RM VENOSA DE CRANIO": {
+        "Categoria": "Exame de Imagem",
+        "Doença": null
+    },
+    "ANGIOFLUORESCEINOGRAFIA - MONOCULAR": {
+        "Categoria": "Exame de Imagem",
+        "Doença": null
+    },
+    "ANGIOGRAFIA P/CATET NAO SELETIVO DE GRANDE VASO": {
+        "Categoria": "Exame de Imagem",
+        "Doença": null
+    },
+    "ANGIOGRAFIA P/CATET SELETIVO RAMO PRIMARIO-P/VASO": {
+        "Categoria": "Exame de Imagem",
+        "Doença": null
+    },
+    "ANGIOGRAFIA TRANSOPERATORIA DE POSICIONAMENTO": {
+        "Categoria": "Exame de Imagem",
+        "Doença": null
+    },
+    "ANGIOPLAST TRANSLUMINAL PERCUT MULT VASOS,C/STENT": {
+        "Categoria": "Procedimento Cardíaco",
+        "Doença": "Doença Arterial Coronariana"
+    },
+    "ANGIOPLASTIA TRANSLUMINAL PERCUTANEA": {
+        "Categoria": "Procedimento Cardíaco",
+        "Doença": "Doença Arterial Coronariana"
+    },
+    "ANGIOPLASTIA TRANSLUMINAL TRANSOPER - P/ ARTERIA": {
+        "Categoria": "Procedimento Cardíaco",
+        "Doença": "Doença Arterial"
+    },
+    "ANGIOTOMOGRAFIA ARTERIAL DE CRANIO": {
+        "Categoria": "Exame de Imagem",
+        "Doença": null
+    },
+    "ANGIOTOMOGRAFIA ARTERIAL DE PESCOCO": {
+        "Categoria": "Exame de Imagem",
+        "Doença": null
+    },
+    "ANGIOTOMOGRAFIA ARTERIAL DE TORAX": {
+        "Categoria": "Exame de Imagem",
+        "Doença": null
+    },
+    "ANTI TRANSGLUTAMINASE TECIDUAL - IGA": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": "Doença Celíaca"
+    },
+    "ANTI-DNA - PESQUISA E/OU DOSAGEM": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": "Lúpus Eritematoso Sistêmico"
+    },
+    "ANTI-LA/SSB - PESQUISA E/OU DOSAGEM": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": "Síndrome de Sjögren"
+    },
+    "ANTI-LKM-1 - PESQUISA E/OU DOSAGEM": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": "Hepatite Autoimune"
+    },
+    "ANTI-RNP - PESQUISA E/OU DOSAGEM": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": "Doenças Autoimunes"
+    },
+    "ANTI-RO/SSA - PESQUISA E/OU DOSAGEM": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": "Síndrome de Sjögren"
+    },
+    "ANTI-SM - PESQUISA E/OU DOSAGEM": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": "Lúpus Eritematoso Sistêmico"
+    },
+    "ANTI-TPO - PESQUISA E/OU DOSAGEM": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": "Tireoidite de Hashimoto"
+    },
+    "ANTIBIOGRAMA AUTOMATIZADO": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": null
+    },
+    "ANTICARDIOLIPINA - IGA - PESQUISA E/OU DOSAGEM": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": "Síndrome Antifosfolípide"
+    },
+    "ANTICARDIOLIPINA - IGG - PESQUISA E/OU DOSAGEM": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": "Síndrome Antifosfolípide"
+    },
+    "ANTICARDIOLIPINA - IGM - PESQUISA E/OU DOSAGEM": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": "Síndrome Antifosfolípide"
+    },
+    "ANTICOAGULANTE LUPICO, PESQUISA": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": "Síndrome Antifosfolípide"
+    },
+    "ANTICORPO ANTIRECEPTOR DE TSH (TRAB)": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": "Doença de Graves"
+    },
+    "ANTICORPOS ANTI PEPTIDEO CICLICO CITRULINADO - IGG": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": "Artrite Reumatoide"
+    },
+    "ANTICORPOS ANTIENDOMISIO - IGG, IGM, IGA (CADA)": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": "Doença Celíaca"
+    },
+    "ANTICORPOS ANTIPNEUMOCOCCO": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": null
+    },
+    "ANTICORPOS ANTITIREOIDE (TIREOGLOBULINA)": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": "Doenças Autoimunes da Tireoide"
+    },
+    "ANTICORPOS BETA 2 GLICOPROTEINA 1 - IGG/IGM/IGA": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": "Síndrome Antifosfolípide"
+    },
+    "ANTICORPOS ERITROCITARIOS NATURAIS E IMUNES - TITULAGEM": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": null
+    },
+    "ANTIESCLERODERMA (SCL 70) - PESQUISA E/OU DOSAGEM": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": "Esclerodermia"
+    },
+    "ANTIGENO AUSTRALIA (HBSAG) - PESQUISA E/OU DOSAGEM": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": "Hepatite B"
+    },
+    "ANTIGENO CARCINOEMBRIOGENICO (CEA)": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": "Câncer"
+    },
+    "ANTIGENO ESPECIFICO PROSTATICO LIVRE (PSA LIVRE)": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": "Câncer de Próstata"
+    },
+    "ANTIGENO ESPECIFICO PROSTATICO TOTAL (PSA)": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": "Câncer de Próstata"
+    },
+    "ANTIGENO NS1 DO VIRUS DA DENGUE, PESQUISA": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": "Dengue"
+    },
+    "ANTIGLIADINA (GLUTEN) - IGA": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": "Doença Celíaca"
+    },
+    "ANTIGLIADINA (GLUTEN) - IGG": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": "Doença Celíaca"
+    },
+    "ANTIGLIADINA (GLUTEN) - IGM": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": "Doença Celíaca"
+    },
+    "ANTIMICROSSOMAL - PESQUISA E/OU DOSAGEM": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": "Doenças Autoimunes da Tireoide"
+    },
+    "ANTIMITOCONDRIA - PESQUISA E/OU DOSAGEM": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": "Cirrose Biliar Primária"
+    },
+    "ANTIMITOCONDRIA, M2 - PESQUISA E/OU DOSAGEM": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": "Cirrose Biliar Primária"
+    },
+    "ANTIMUSCULO LISO - PESQUISA E/OU DOSAGEM": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": "Hepatite Autoimune"
+    },
+    "ANTINEUTROFILOS (ANCA) C - PESQUISA E/OU DOSAGEM": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": "Vasculites"
+    },
+    "ANTINEUTROFILOS (ANCA) P - PESQUISA E/OU DOSAGEM": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": "Vasculites"
+    },
+    "ANTIPARIETAL - PESQUISA E/OU DOSAGEM": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": "Anemia Perniciosa"
+    },
+    "ANTIPEROXIDASE TIREOIDEANA - PESQUISA E/OU DOSAGEM": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": "Tireoidite de Hashimoto"
+    },
+    "ANTITROMBINA III, DOSAGEM": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": null
+    },
+    "ANUSCOPIA (INTERNA E EXTERNA)": {
+        "Categoria": "Exame Diagnóstico",
+        "Doença": null
+    },
+    "AP BIOSPIA MULTIPLAS (ATE 6 AREAS)": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": null
+    },
+    "APENDICECTOMIA POR VIDEOLAPAROSCOPIA": {
+        "Categoria": "Procedimento Cirúrgico",
+        "Doença": "Apendicite"
+    },
+    "APOLIPOPROTEINA A (APO A) - PESQUISA E/OU DOSAGEM": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": null
+    },
+    "APOLIPOPROTEINA B (APO B) - PESQUISA E/OU DOSAGEM": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": null
+    },
+    "ARTRODESE DA COLUNA C/ INSTRUMENTACAO POR SEGMENTO": {
+        "Categoria": "Procedimento Cirúrgico",
+        "Doença": null
+    },
+    "ARTRODESE DE COLUNA VIA ANT OU POST LAT - TRAT CIR": {
+        "Categoria": "Procedimento Cirúrgico",
+        "Doença": null
+    },
+    "ARTROSCOPIA P/ DIAGNOSTICO C/OU S/BIOPSIA SINOVIAL": {
+        "Categoria": "Procedimento Cirúrgico",
+        "Doença": null
+    },
+    "ASLO - PESQUISA E/OU DOSAGEM": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": "Febre Reumática"
+    },
+    "ASLO, QUANTITATIVO - PESQUISA E/OU DOSAGEM": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": "Febre Reumática"
+    },
+    "ASPERGILUS, REACAO SOROLOGICA": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": "Aspergilose"
+    },
+    "ASPIRACAO AURICULAR": {
+        "Categoria": "Procedimento Médico",
+        "Doença": null
+    },
+    "ASPIRACAO MANUAL INTRA-UTERINA (AMIU)": {
+        "Categoria": "Procedimento Cirúrgico",
+        "Doença": null
+    },
+    "ASSIST AO TRABALHO DE PARTO, P/ H (ATE LIMITE 6 H)": {
+        "Categoria": "Procedimento Médico",
+        "Doença": null
+    },
+    "ASSIST FISIÁTRICA RESPIRATÓRIA- PRÉ E PÓS-OP": {
+        "Categoria": "Terapia",
+        "Doença": null
+    },
+    "ATEND AO RN EM SALA DE PARTO (NORMAL/BAIXO RISCO)": {
+        "Categoria": "Procedimento Médico",
+        "Doença": null
+    },
+    "ATEND FISIO AMB DISFUN DECOR DE ALT DO SIS MUS-ESQ": {
+        "Categoria": "Terapia",
+        "Doença": null
+    },
+    "ATEND FISIÁTRICO NO PRÉ E PÓS-OP P/PREV SEQÜELAS": {
+        "Categoria": "Terapia",
+        "Doença": null
+    },
+    "ATENDIMENTO AMBULATORIAL MEU DOUTOR - CARDIOLOGIA": {
+        "Categoria": "Consulta Médica",
+        "Doença": null
+    },
+    "ATENDIMENTO AMBULATORIAL MEU DOUTOR - CLINICA MEDICA": {
+        "Categoria": "Consulta Médica",
+        "Doença": null
+    },
+    "ATENDIMENTO AMBULATORIAL MEU DOUTOR - COLUNA": {
+        "Categoria": "Consulta Médica",
+        "Doença": null
+    },
+    "ATENDIMENTO AMBULATORIAL MEU DOUTOR - DIABETES": {
+        "Categoria": "Consulta Médica",
+        "Doença": "Diabetes"
+    },
+    "ATENDIMENTO AMBULATORIAL MEU DOUTOR - ORTOPEDIA": {
+        "Categoria": "Consulta Médica",
+        "Doença": null
+    },
+    "ATENDIMENTO AMBULATORIAL MEU DOUTOR - PEDIATRIA": {
+        "Categoria": "Consulta Médica",
+        "Doença": null
+    },
+    "ATENDIMENTO AMBULATORIAL NOVAMED": {
+        "Categoria": "Consulta Médica",
+        "Doença": null
+    },
+    "ATENDIMENTO AO RECEM-NASCIDO EM BERCARIO": {
+        "Categoria": "Procedimento Médico",
+        "Doença": null
+    },
+    "ATENDIMENTO EM P S  S/ EX": {
+        "Categoria": "Consulta Médica",
+        "Doença": null
+    },
+    "ATENDIMENTO EM PRONTO SOC": {
+        "Categoria": "Consulta Médica",
+        "Doença": null
+    },
+    "ATENDIMENTO EM PRONTO SOCORRO": {
+        "Categoria": "Consulta Médica",
+        "Doença": null
+    },
+    "ATENDIMENTO EM PRONTO SOCORRO ADULTO": {
+        "Categoria": "Consulta Médica",
+        "Doença": null
+    },
+    "ATENDIMENTO FISIATRICO NO PRE E POS-PARTO": {
+        "Categoria": "Terapia",
+        "Doença": null
+    },
+    "ATENDIMENTO PEDIATRICO AMBULATORIAL": {
+        "Categoria": "Consulta Médica",
+        "Doença": null
+    },
+    "ATENDIMENTO PRONTO SOCORR": {
+        "Categoria": "Consulta Médica",
+        "Doença": null
+    },
+    "ATENDIMENTO PRONTO SOCORRO": {
+        "Categoria": "Consulta Médica",
+        "Doença": null
+    },
+    "ATENDIMENTO PRONTO SOCORRO ADULTO": {
+        "Categoria": "Consulta Médica",
+        "Doença": null
+    },
+    "ATIV REFLEXA OU APLIC TEC CINESIOTERAPICA ESP": {
+        "Categoria": "Terapia",
+        "Doença": null
+    },
+    "ATO DE COL PAAF DE ORG/ESTR SUP C/ DESLOC DO PATOL": {
+        "Categoria": "Procedimento diagnóstico",
+        "Doença": null
+    },
+    "AUDIOM TONAL LIMIAR INFANT COND (QQ TEC)-PEEP-SHOW": {
+        "Categoria": "Exame audiológico",
+        "Doença": null
+    },
+    "AUDIOMETRIA DE TRONCO CEREBRAL (PEA) BERA": {
+        "Categoria": "Exame audiológico",
+        "Doença": null
+    },
+    "AUDIOMETRIA TONAL LIMIAR C/ TESTES DISCRIMINACAO": {
+        "Categoria": "Exame audiológico",
+        "Doença": null
+    },
+    "AUDIOMETRIA VOCAL - PESQ DE LIMIAR DE INTELIGIBIL": {
+        "Categoria": "Exame audiológico",
+        "Doença": null
+    },
+    "AUDIOMETRIA VOCAL - PESQUISA DE LIMIAR DE DISCRIM": {
+        "Categoria": "Exame audiológico",
+        "Doença": null
+    },
+    "AUDIOMETRIA VOCAL C/ MSG COMPETITIVA (SSI, SSW)": {
+        "Categoria": "Exame audiológico",
+        "Doença": null
+    },
+    "AVAL DA COMPOSICAO CORPORAL P/ BIOIMPEDANCIOMETRIA": {
+        "Categoria": "Exame de composição corporal",
+        "Doença": null
+    },
+    "AVAL FC MUSC (P/ MOV) EQUIP MEC (DINAM/MOD CARG)": {
+        "Categoria": "Avaliação física",
+        "Doença": null
+    },
+    "AVAL MUSC P/ DINAMOM COMPUTAD (ISOCIN) - P/ ARTIC": {
+        "Categoria": "Avaliação física",
+        "Doença": null
+    },
+    "AVAL ORBITO-PALPEBRAL-EXOFTALMOMETRIA - BINOCULAR": {
+        "Categoria": "Exame oftalmológico",
+        "Doença": null
+    },
+    "AVAL. CLIN E ELETR. PCT PORT. MARCA-PAS/SINCR/DESF": {
+        "Categoria": "Avaliação cardiológica",
+        "Doença": null
+    },
+    "AVALIACAO CLINICA DIARIA ENTERAL": {
+        "Categoria": "Avaliação clínica",
+        "Doença": null
+    },
+    "AVALIACAO DA COMPOSICAO CORPORAL POR ANTROPOMETRIA (INCLUI CONSULTA)": {
+        "Categoria": "Exame de composição corporal",
+        "Doença": null
+    },
+    "AVALIACAO DA FUNCAO AUDITIVA CENTRAL": {
+        "Categoria": "Exame audiológico",
+        "Doença": null
+    },
+    "AVALIACAO DE MARCA PASSO": {
+        "Categoria": "Avaliação cardiológica",
+        "Doença": null
+    },
+    "AVALIACAO DE VIAS LACRIMAIS - MONOCULAR": {
+        "Categoria": "Exame oftalmológico",
+        "Doença": null
+    },
+    "AVALIACAO FISIOLOGICA DA GRAVIDADE DE OBSTRUCOES (CATETER OU GUIA)": {
+        "Categoria": "Avaliação cardiológica",
+        "Doença": null
+    },
+    "AVALIACAO NUTROLOGICA (INCLUI CONSULTA)": {
+        "Categoria": "Avaliação nutricional",
+        "Doença": null
+    },
+    "AXILO-PALMAR OU PENDENTE": {
+        "Categoria": "Procedimento ortopédico",
+        "Doença": null
+    },
+    "BAAR (ZIEHL OU FLUORESC, PESQ DIRETA E APOS HOMOG)": {
+        "Categoria": "Exame laboratorial",
+        "Doença": "Tuberculose"
+    },
+    "BACTERIOSCOPIA (GRAM, ZIEHL, ALBERT ETC) P/ LAMINA": {
+        "Categoria": "Exame laboratorial",
+        "Doença": null
+    },
+    "BETA-2-MICROGLOBULINA - PESQUISA E/OU DOSAGEM": {
+        "Categoria": "Exame laboratorial",
+        "Doença": null
+    },
+    "BETATERAPIA (PLACA DE ESTRONCIO) - POR CAMPO": {
+        "Categoria": "Procedimento terapêutico",
+        "Doença": null
+    },
+    "BILIRRUBINAS (DIRETA, INDIRETA E TOTAL)": {
+        "Categoria": "Exame laboratorial",
+        "Doença": null
+    },
+    "BIOFEEDBACK COM EMG": {
+        "Categoria": "Procedimento terapêutico",
+        "Doença": null
+    },
+    "BIOIMPEDANCIOMETRIA (AMBULATORIAL) EXAME": {
+        "Categoria": "Exame de composição corporal",
+        "Doença": null
+    },
+    "BIOMETRIA ULTRA-SONICA - MONOCULAR": {
+        "Categoria": "Exame oftalmológico",
+        "Doença": null
+    },
+    "BIOMICROSCOPIA DE FUNDO": {
+        "Categoria": "Exame oftalmológico",
+        "Doença": null
+    },
+    "BIOP DE PELE, TU SUPERF, TEC CEL SUBC, LINF SUPERF": {
+        "Categoria": "Procedimento diagnóstico",
+        "Doença": null
+    },
+    "BIOPSIA DE VAGINA": {
+        "Categoria": "Procedimento diagnóstico",
+        "Doença": null
+    },
+    "BIOPSIA DE VULVA": {
+        "Categoria": "Procedimento diagnóstico",
+        "Doença": null
+    },
+    "BIOPSIA DO COLO UTERINO": {
+        "Categoria": "Procedimento diagnóstico",
+        "Doença": null
+    },
+    "BIOPSIA DO ENDOMETRIO": {
+        "Categoria": "Procedimento diagnóstico",
+        "Doença": null
+    },
+    "BIOPSIA ENDOSCOPICA DE BEXIGA (INCLUI CISTOSCOPIA)": {
+        "Categoria": "Procedimento diagnóstico",
+        "Doença": null
+    },
+    "BLASTOMICOSE, REACAO SOROLOGICA": {
+        "Categoria": "Exame laboratorial",
+        "Doença": "Blastomicose"
+    },
+    "BLOQ FEN, ALC OU TOX B (PTS MOT) MEMB OU SEG CORP": {
+        "Categoria": "Procedimento terapêutico",
+        "Doença": null
+    },
+    "BLOQ NERVO PERIF - BLOQ ANEST NERV E ESTIM NEUROV": {
+        "Categoria": "Procedimento terapêutico",
+        "Doença": null
+    },
+    "BLOQ NEUROLITICO NERVOS CRAN OU CERVICO-TORACICO": {
+        "Categoria": "Procedimento terapêutico",
+        "Doença": null
+    },
+    "BLOQUEIO ANESTESICO DE SIMPATICO LOMBAR": {
+        "Categoria": "Procedimento terapêutico",
+        "Doença": null
+    },
+    "BLOQUEIO DE NERVO PERIFERICO - NERVOS PERIFERICOS": {
+        "Categoria": "Procedimento terapêutico",
+        "Doença": null
+    },
+    "BLOQUEIO FACETARIO PARA-ESPINHOSO": {
+        "Categoria": "Procedimento terapêutico",
+        "Doença": null
+    },
+    "BLOQUEIO NEUROLITICO DO PLEXO CELIACO, SIMPATICO LOMBAR OU TORACICO": {
+        "Categoria": "Procedimento terapêutico",
+        "Doença": null
+    },
+    "BLOQUEIO PERIDURAL OU SUBARACNOIDEO COM CORTICOIDE": {
+        "Categoria": "Procedimento terapêutico",
+        "Doença": null
+    },
+    "BOTA COM OU SEM SALTO": {
+        "Categoria": "Órtese",
+        "Doença": null
+    },
+    "BRONCOSCOPIA COM BIOPSIA TRANSBRONQUICA": {
+        "Categoria": "Procedimento diagnóstico",
+        "Doença": null
+    },
+    "CA 50 - PESQUISA E/OU DOSAGEM": {
+        "Categoria": "Exame laboratorial",
+        "Doença": null
+    },
+    "CADEIA KAPPA-LAMBDA LEVE LIVRE": {
+        "Categoria": "Exame laboratorial",
+        "Doença": null
+    },
+    "CALCIO - PESQUISA E/OU DOSAGEM": {
+        "Categoria": "Exame laboratorial",
+        "Doença": null
+    },
+    "CALCIO IONICO - PESQUISA E/OU DOSAGEM": {
+        "Categoria": "Exame laboratorial",
+        "Doença": null
+    },
+    "CALCITONINA - PESQUISA E/OU DOSAGEM": {
+        "Categoria": "Exame laboratorial",
+        "Doença": null
+    },
+    "CALCULOS URINARIOS - ANALISE": {
+        "Categoria": "Exame laboratorial",
+        "Doença": "Cálculo renal"
+    },
+    "CALORIMETRIA INDIRETA (AMBULATORIAL) EXAME": {
+        "Categoria": "Exame metabólico",
+        "Doença": null
+    },
+    "CALOSIDADE E/OU MAL PERFUR - DESBASTAM (POR LESAO)": {
+        "Categoria": "Procedimento dermatológico",
+        "Doença": null
+    },
+    "CALPROTECTINA, DETECCAO NAS FEZES": {
+        "Categoria": "Exame laboratorial",
+        "Doença": null
+    },
+    "CAMPIMETRIA COMPUTADORIZADA - MONOCULAR": {
+        "Categoria": "Exame oftalmológico",
+        "Doença": null
+    },
+    "CAMPIMETRIA MANUAL - MONOCULAR": {
+        "Categoria": "Exame oftalmológico",
+        "Doença": null
+    },
+    "CANTOPLASTIA UNGUEAL": {
+        "Categoria": "Procedimento cirúrgico",
+        "Doença": null
+    },
+    "CAPACIDADE DE FIXACAO DE FERRO": {
+        "Categoria": "Exame laboratorial",
+        "Doença": null
+    },
+    "CAPILAROSCOPIA PERIUNGUEAL": {
+        "Categoria": "Exame diagnóstico",
+        "Doença": null
+    },
+    "CAPSULOTOMIA YAG OU CIRURGICA": {
+        "Categoria": "Procedimento oftalmológico",
+        "Doença": "Catarata secundária"
+    },
+    "CARBOXIHEMOGLOBINA (PARA MONOXIDO DE CARBONO DICLOROMETANO) - PESQUISA E/OU DOSAGEM": {
+        "Categoria": "Exame laboratorial",
+        "Doença": "Intoxicação por monóxido de carbono"
+    },
+    "CARDIOTOCOGRAFIA ANTEPARTO": {
+        "Categoria": "Exame obstétrico",
+        "Doença": null
+    },
+    "CARIOTIPO C/BANDAS DE PELE, TU E DEMAIS TECIDOS": {
+        "Categoria": "Exame genético",
+        "Doença": null
+    },
+    "CARIOTIPO DE MEDULA (TECNICAS COM BANDAS)": {
+        "Categoria": "Exame genético",
+        "Doença": null
+    },
+    "CARIOTIPO DE SANGUE (TECNICAS COM BANDAS)": {
+        "Categoria": "Exame genético",
+        "Doença": null
+    },
+    "CAROTENO - PESQUISA E/OU DOSAGEM": {
+        "Categoria": "Exame laboratorial",
+        "Doença": null
+    },
+    "CAT CARD E/D C/ CINEANGIOCORONARIOGR E VENTRICULOG": {
+        "Categoria": "Exame cardiológico",
+        "Doença": null
+    },
+    "CAT D/E C/S CINEC/CINEA AVAL VASC PULM/TT SOB HEM": {
+        "Categoria": "Exame cardiológico",
+        "Doença": null
+    },
+    "CATECOLAMINAS - PESQUISA E/OU DOSAGEM": {
+        "Categoria": "Exame laboratorial",
+        "Doença": null
+    },
+    "CATETERISMO DA ARTERIA RADIAL - PARA PAM": {
+        "Categoria": "Procedimento médico",
+        "Doença": null
+    },
+    "CATETERIZACAO CARDIACA E POR VIA TRANSEPTAL": {
+        "Categoria": "Procedimento cardiológico",
+        "Doença": null
+    },
+    "CAUT QUIM, ELETR OU CRIOCAUT LES VULVA (GR ATE 5)": {
+        "Categoria": "Procedimento ginecológico",
+        "Doença": null
+    },
+    "CAUT QUIM/ELETROCAUT/CRIOCAUT LES COLO UTER, P/ SS": {
+        "Categoria": "Procedimento ginecológico",
+        "Doença": null
+    },
+    "CAUTERIZACAO (QUALQUER TECNICA) POR SESSAO": {
+        "Categoria": "Procedimento médico",
+        "Doença": null
+    },
+    "CAUTERIZACAO QUIMICA (POR GRUPO DE ATE 5 LESOES)": {
+        "Categoria": "Procedimento dermatológico",
+        "Doença": null
+    },
+    "CAXUMBA, IGG - PESQUISA E/OU DOSAGEM": {
+        "Categoria": "Exame laboratorial",
+        "Doença": "Caxumba"
+    },
+    "CAXUMBA, IGM - PESQUISA E/OU DOSAGEM": {
+        "Categoria": "Exame laboratorial",
+        "Doença": "Caxumba"
+    },
+    "CD.. (ANTIGENO DE DIF. CELULAR, CADA DETERMINACAO)": {
+        "Categoria": "Exame laboratorial",
+        "Doença": null
+    },
+    "CELULAS, PESQUISA CELULAS NEOPL (CITOLOGIA ONCO)": {
+        "Categoria": "Exame laboratorial",
+        "Doença": null
+    },
+    "CERATOSCOPIA COMPUTADORIZADA - MONOCULAR": {
+        "Categoria": "Exame oftalmológico",
+        "Doença": null
+    },
+    "CERULOPLASMINA - PESQUISA E/OU DOSAGEM": {
+        "Categoria": "Exame laboratorial",
+        "Doença": null
+    },
+    "CERUMEN - REMOCAO (BILATERAL)": {
+        "Categoria": "Procedimento otorrinolaringológico",
+        "Doença": null
+    },
+    "CESARIANA": {
+        "Categoria": "Procedimento obstétrico",
+        "Doença": null
+    },
+    "CHAGAS (MACHADO GUERREIRO)": {
+        "Categoria": "Exame laboratorial",
+        "Doença": "Doença de Chagas"
+    },
+    "CHAGAS IGG - PESQUISA E/OU DOSAGEM": {
+        "Categoria": "Exame laboratorial",
+        "Doença": "Doença de Chagas"
+    },
+    "CHAGAS IGM - PESQUISA E/OU DOSAGEM": {
+        "Categoria": "Exame laboratorial",
+        "Doença": "Doença de Chagas"
+    },
+    "CHIKUNGUNYA, ANTICORPOS": {
+        "Categoria": "Exame laboratorial",
+        "Doença": "Chikungunya"
+    },
+    "CHLAMYDIA - IGG - PESQUISA E/OU DOSAGEM": {
+        "Categoria": "Exame laboratorial",
+        "Doença": "Clamídia"
+    },
+    "CHLAMYDIA - IGM - PESQUISA E/OU DOSAGEM": {
+        "Categoria": "Exame laboratorial",
+        "Doença": "Clamídia"
+    },
+    "CHLAMYDIA - PCR, AMPLIFICACAO DE DNA": {
+        "Categoria": "Exame laboratorial",
+        "Doença": "Clamídia"
+    },
+    "CHLAMYDIA POR BIOLOGIA MOLECULAR - PESQUISA": {
+        "Categoria": "Exame laboratorial",
+        "Doença": "Clamídia"
+    },
+    "CHLAMYDIA, CULTURA": {
+        "Categoria": "Exame laboratorial",
+        "Doença": "Clamídia"
+    },
+    "CHUMBO - PESQUISA E/OU DOSAGEM": {
+        "Categoria": "Exame laboratorial",
+        "Doença": "Intoxicação por chumbo"
+    },
+    "CINT DE CORPO INTEIRO P/ PESQ DE METASTASES (PCI)": {
+        "Categoria": "Exame de imagem",
+        "Doença": "Câncer"
+    },
+    "CINTILOGRAF TIREOIDE E/OU CAPT (TECNECIO - 99M TC)": {
+        "Categoria": "Exame de imagem",
+        "Doença": null
+    },
+    "CINTILOGRAFIA DAS PARATIREOIDES": {
+        "Categoria": "Exame de imagem",
+        "Doença": null
+    },
+    "CINTILOGRAFIA DO MIOCARDIO PERFUSAO - ESTRESSE FIS": {
+        "Categoria": "Exame de imagem",
+        "Doença": null
+    },
+    "CINTILOGRAFIA DO MIOCARDIO PERFUSAO - REPOUSO": {
+        "Categoria": "Exame de imagem",
+        "Doença": null
+    },
+    "CINTILOGRAFIA MIOCARDIO PERFUSAO - ESTRESSE FARMAC": {
+        "Categoria": "Exame de imagem",
+        "Doença": null
+    },
+    "CINTILOGRAFIA OSSEA (CORPO TOTAL)": {
+        "Categoria": "Exame de imagem",
+        "Doença": null
+    },
+    "CINTILOGRAFIA P/ DETERM DO TEMPO ESVAZIAM GASTRICO": {
+        "Categoria": "Exame de imagem",
+        "Doença": null
+    },
+    "CINTILOGRAFIA P/ PESQ DE REFLUXO GASTRO-ESOFAGICO": {
+        "Categoria": "Exame de imagem",
+        "Doença": "Refluxo gastroesofágico"
+    },
+    "CINTILOGRAFIA RENAL DINAMICA": {
+        "Categoria": "Exame de imagem",
+        "Doença": null
+    },
+    "CINTILOGRAFIA RENAL DINAMICA COM DIURETICO": {
+        "Categoria": "Exame de imagem",
+        "Doença": null
+    },
+    "CINTILOGRAFIA RENAL ESTATICA (QUANT OU QUALIT)": {
+        "Categoria": "Exame de imagem",
+        "Doença": null
+    },
+    "CIR DE RESTAURACAO VENOSA COM PONTES NOS MEMBROS": {
+        "Categoria": "Procedimento cirúrgico",
+        "Doença": null
+    },
+    "CIRURGIA DE COLUNA POR VIA ENDOSCOPICA": {
+        "Categoria": "Procedimento cirúrgico",
+        "Doença": null
+    },
+    "CIRURGIA ESTERILIZADORA MASCULINA": {
+        "Categoria": "Procedimento cirúrgico",
+        "Doença": null
+    },
+    "CIRURGIAS FISTULIZANTES ANTIGLAUCOMATOSAS": {
+        "Categoria": "Procedimento cirúrgico",
+        "Doença": "Glaucoma"
+    },
+    "CISTINA - PESQUISA E/OU DOSAGEM NA URINA": {
+        "Categoria": "Exame laboratorial",
+        "Doença": "Cistinúria"
+    },
+    "CISTOSCOPIA E/OU URETROSCOPIA": {
+        "Categoria": "Procedimento diagnóstico",
+        "Doença": null
+    },
+    "CITOMEGALOVIRUS - QUALITATIVO, POR PCR - PESQUISA": {
+        "Categoria": "Exame laboratorial",
+        "Doença": "Citomegalovírus"
+    },
+    "CITOMEGALOVIRUS IGG - PESQUISA E/OU DOSAGEM": {
+        "Categoria": "Exame laboratorial",
+        "Doença": "Citomegalovírus"
+    },
+    "CITOMEGALOVIRUS IGM - PESQUISA E/OU DOSAGEM": {
+        "Categoria": "Exame laboratorial",
+        "Doença": "Citomegalovírus"
+    },
+    "CLEARANCE DE CREATININA": {
+        "Categoria": "Exame laboratorial",
+        "Doença": null
+    },
+    "CLITOROPLASTIA": {
+        "Categoria": "Procedimento cirúrgico",
+        "Doença": null
+    },
+    "CLORO - PESQUISA E/OU DOSAGEM": {
+        "Categoria": "Exame laboratorial",
+        "Doença": null
+    },
+    "CLOSTRIDIUM DIFFICILE, TOXINA A": {
+        "Categoria": "Exame laboratorial",
+        "Doença": "Infecção por Clostridium difficile"
+    },
+    "COAGULOG (TS TC LACO RETR COAG, PLAQ, T PROT, ETC)": {
+        "Categoria": "Exame laboratorial",
+        "Doença": null
+    },
+    "COBRE - PESQUISA E/OU DOSAGEM": {
+        "Categoria": "Exame laboratorial",
+        "Doença": null
+    },
+    "COLAR": {
+        "Categoria": "Órtese",
+        "Doença": null
+    },
+    "COLECISTECTOMIA COM COLANGIOGRAFIA POR VIDEOLAP": {
+        "Categoria": "Procedimento cirúrgico",
+        "Doença": null
+    },
+    "COLECISTECTOMIA SEM COLANGIOGRAFIA POR VIDEOLAP": {
+        "Categoria": "Procedimento cirúrgico",
+        "Doença": null
+    },
+    "COLESTEROL (HDL) - PESQUISA E/OU DOSAGEM": {
+        "Categoria": "Exame laboratorial",
+        "Doença": null
+    },
+    "COLESTEROL (LDL) - PESQUISA E/OU DOSAGEM": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": "Dislipidemia"
+    },
+    "COLESTEROL (VLDL) - PESQUISA E/OU DOSAGEM": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": "Dislipidemia"
+    },
+    "COLESTEROL TOTAL - PESQUISA E/OU DOSAGEM": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": "Dislipidemia"
+    },
+    "COLETA DE MATERIAL CERVICO-VAGINAL": {
+        "Categoria": "Procedimento Ginecológico",
+        "Doença": null
+    },
+    "COLETE": {
+        "Categoria": "Órtese",
+        "Doença": null
+    },
+    "COLOCACAO DE STENT PARA TRATAMENTO DE OBSTRUCAO ARTERIAL OU VENOSA": {
+        "Categoria": "Procedimento Cirúrgico Vascular",
+        "Doença": "Obstrução Vascular"
+    },
+    "COLOCACAO URETEROSCOPICA DE DUPLO J - UNILATERAL": {
+        "Categoria": "Procedimento Urológico",
+        "Doença": "Obstrução Ureteral"
+    },
+    "COLONOSCOPIA (INCLUI A RETOSSIGMOIDOSCOPIA)": {
+        "Categoria": "Exame Endoscópico",
+        "Doença": null
+    },
+    "COLONOSCOPIA COM BIOPSIA E/OU CITOLOGIA": {
+        "Categoria": "Exame Endoscópico",
+        "Doença": null
+    },
+    "COLONOSCOPIA COM MUCOSECTOMIA": {
+        "Categoria": "Procedimento Endoscópico",
+        "Doença": null
+    },
+    "COLORACAO ESPECIAL POR COLORACAO": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": null
+    },
+    "COLPOSCOPIA (CERVICE UTERINA E VAGINA)": {
+        "Categoria": "Exame Ginecológico",
+        "Doença": null
+    },
+    "COLUNA VERTEBRAL: INFILTRACAO FORAMINAL OU FACETARIA OU ARTICULAR": {
+        "Categoria": "Procedimento Ortopédico",
+        "Doença": "Dor Crônica"
+    },
+    "COMPLEMENTO C2 - PESQUISA E/OU DOSAGEM": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": null
+    },
+    "COMPLEMENTO C3 - PESQUISA E/OU DOSAGEM": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": null
+    },
+    "COMPLEMENTO C4 - PESQUISA E/OU DOSAGEM": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": null
+    },
+    "COMPLEMENTO CH-50 - PESQUISA E/OU DOSAGEM": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": null
+    },
+    "COMPOSTO S (11 - DESOXICORTISOL)": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": null
+    },
+    "CONDROPL C/REM CORPOS LIVRES - VIDEOARTR JOELHO": {
+        "Categoria": "Procedimento Cirúrgico Ortopédico",
+        "Doença": "Lesão Articular"
+    },
+    "CONSULTA AMBULATORIAL EM FISIOTERAPIA": {
+        "Categoria": "Consulta",
+        "Doença": null
+    },
+    "CONSULTA AMBULATORIAL EM PSICOLOGIA": {
+        "Categoria": "Consulta",
+        "Doença": null
+    },
+    "CONSULTA AMBULATORIAL POR NUTRICIONISTA": {
+        "Categoria": "Consulta",
+        "Doença": null
+    },
+    "CONSULTA COM NUTRICIONISTA TELESSAUDE": {
+        "Categoria": "Telemedicina",
+        "Doença": null
+    },
+    "CONSULTA CONSULTORIO (HORARIO NORMAL OU PREESTAB)": {
+        "Categoria": "Consulta",
+        "Doença": null
+    },
+    "CONSULTA EM CONSULTORIO": {
+        "Categoria": "Consulta",
+        "Doença": null
+    },
+    "CONSULTA EM PRONTO SOCORRO": {
+        "Categoria": "Consulta de Emergência",
+        "Doença": null
+    },
+    "CONSULTA EM PSICOLOGIA": {
+        "Categoria": "Consulta",
+        "Doença": null
+    },
+    "CONSULTA INDIVIDUAL AMBULATORIAL DE FONOAUDIOLOGIA": {
+        "Categoria": "Consulta",
+        "Doença": null
+    },
+    "CONSULTA MEDICA POR VIA REMOTA/NAO PRESENCIAL": {
+        "Categoria": "Telemedicina",
+        "Doença": null
+    },
+    "CONSULTA MEU DOUTOR PNEUMOLOGIA": {
+        "Categoria": "Consulta",
+        "Doença": null
+    },
+    "CONSULTA/SESSAO DE NUTRICAO": {
+        "Categoria": "Consulta",
+        "Doença": null
+    },
+    "CONSULTA/SESSAO EM PSICOLOGIA TELESSAUDE": {
+        "Categoria": "Telemedicina",
+        "Doença": null
+    },
+    "COOMBS DIRETO": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": null
+    },
+    "COOMBS INDIRETO": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": null
+    },
+    "COPR FUNC (CAR, PH, DIG, AMON, AC ORGAN E INTERPR)": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": null
+    },
+    "CORE BIOPSY ORIENTADA POR US": {
+        "Categoria": "Procedimento Diagnóstico",
+        "Doença": null
+    },
+    "CORNETO INFERIOR - CAUTERIZACAO LINEAR - UNILAT": {
+        "Categoria": "Procedimento Otorrinolaringológico",
+        "Doença": null
+    },
+    "CORONAVIRUS COVID-19,PESQUISA POR METODO MOLECULAR": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": "COVID-19"
+    },
+    "CORPO ESTRANHO - EXTRACAO ENDOSCOPICA": {
+        "Categoria": "Procedimento Endoscópico",
+        "Doença": null
+    },
+    "CORPO ESTRANHO DA CORNEA - RETIRADA": {
+        "Categoria": "Procedimento Oftalmológico",
+        "Doença": null
+    },
+    "CORPOS ESTRANHOS - RETIRADA EM CONSULTORIO (NARIZ)": {
+        "Categoria": "Procedimento Otorrinolaringológico",
+        "Doença": null
+    },
+    "CORPOS ESTRANHOS, POLIPOS OU BIOPSIA - EM CONSULT": {
+        "Categoria": "Procedimento Ambulatorial",
+        "Doença": null
+    },
+    "CORTISOL - PESQUISA E/OU DOSAGEM": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": null
+    },
+    "CORTISOL LIVRE - PESQUISA E/OU DOSAGEM": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": null
+    },
+    "CREATINA - PESQUISA E/OU DOSAGEM": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": null
+    },
+    "CREATININA - PESQUISA E/OU DOSAGEM": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": null
+    },
+    "CREATINO FOSFOQUINASE - FRACAO MB - ATIVIDADE": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": "Infarto do Miocárdio"
+    },
+    "CREATINO FOSFOQUINASE - FRACAO MB - MASSA": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": "Infarto do Miocárdio"
+    },
+    "CREATINO FOSFOQUINASE TOTAL (CK)": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": null
+    },
+    "CRESCIMENTO, HORMONIO DO (HGH)": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": null
+    },
+    "CRIOCIRURGIA (NITROGENIO LIQUIDO) NEOPLASIAS CUT": {
+        "Categoria": "Procedimento Dermatológico",
+        "Doença": "Neoplasia Cutânea"
+    },
+    "CRIOTERAPIA (GRUPO DE ATE 5 LESOES)": {
+        "Categoria": "Procedimento Dermatológico",
+        "Doença": null
+    },
+    "CRIPTOSPORIDIUM, PESQUISA": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": "Criptosporidiose"
+    },
+    "CROMO - PESQUISA E/OU DOSAGEM": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": null
+    },
+    "CROMOSSOMO PHILADELFIA - PESQUISA": {
+        "Categoria": "Exame Genético",
+        "Doença": "Leucemia Mielóide Crônica"
+    },
+    "CULT FEZES: SALM, SHIG E COLI ENTEROPAT (SOR INCL)": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": "Infecção Intestinal"
+    },
+    "CULT FEZES: SALM/SHIG/ECOLI PATOG, INVAS, HEMORR": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": "Infecção Intestinal"
+    },
+    "CULTURA AUTOMATIZADA - MICROBIOLOGIA": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": null
+    },
+    "CULTURA BACTERIANA (EM DIVERSOS MAT BIOLOGICOS)": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": null
+    },
+    "CULTURA PARA BACTERIAS ANAEROBICAS": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": null
+    },
+    "CULTURA PARA FUNGOS": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": null
+    },
+    "CULTURA PARA MYCOBACTERIUM": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": "Tuberculose"
+    },
+    "CULTURA, MICOPLASMA OU UREAPLASMA": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": null
+    },
+    "CULTURA, URINA COM CONTAGEM DE COLONIAS": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": "Infecção Urinária"
+    },
+    "CURATIVO DE EXTREMIDADES DE ORIGEM VASCULAR": {
+        "Categoria": "Procedimento de Enfermagem",
+        "Doença": null
+    },
+    "CURATIVOS EM GERAL S/ANESTESIA, EXCETO QUEIMADOS": {
+        "Categoria": "Procedimento de Enfermagem",
+        "Doença": null
+    },
+    "CURETAGEM SIMPLES LESOES PELE (GRUPO ATE 5 LESOES)": {
+        "Categoria": "Procedimento Dermatológico",
+        "Doença": null
+    },
+    "CURVA DE HGH COM CLONIDINA (CADA DOSAGEM)": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": null
+    },
+    "CURVA GLICEMICA (4 DOSAGENS) VIA ORAL OU ENDOVEN": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": "Diabetes"
+    },
+    "CURVA GLICEMICA (6 DOSAGENS)": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": "Diabetes"
+    },
+    "CURVA GLICEMICA 4DOSAGENS VIA ORAL OU ENDOVENOSA": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": "Diabetes"
+    },
+    "CURVA INSULINICA (6 DOSAGENS)": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": "Diabetes"
+    },
+    "CURVA TENSIONAL DIARIA - BINOCULAR": {
+        "Categoria": "Exame Oftalmológico",
+        "Doença": "Glaucoma"
+    },
+    "DECAY DO REFLEXO ESTAPEDICO": {
+        "Categoria": "Exame Audiológico",
+        "Doença": null
+    },
+    "DEFORMIDADE DOS DEDOS - TRATAMENTO CIRURGICO": {
+        "Categoria": "Procedimento Cirúrgico Ortopédico",
+        "Doença": null
+    },
+    "DEHIDROEPIANDROSTERONA (DHEA)": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": null
+    },
+    "DEHIDROTESTOSTERONA (DHT) - PESQUISA E/OU DOSAGEM": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": null
+    },
+    "DELAMINACAO CORNEANA C/ FOTOABLACAO ESTROMAL-LASIK": {
+        "Categoria": "Procedimento Cirúrgico Oftalmológico",
+        "Doença": null
+    },
+    "DELEUCOTIZACAO UNID DE CONC HEMACIAS - P/ UNID": {
+        "Categoria": "Procedimento Hematológico",
+        "Doença": null
+    },
+    "DENERVACAO PERCUTANEA DE FACETA ARTICULAR - P/ SEG": {
+        "Categoria": "Procedimento Cirúrgico Ortopédico",
+        "Doença": "Dor Crônica"
+    },
+    "DENGUE - IGG E IGM (CADA) - PESQUISA E/OU DOSAGEM": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": "Dengue"
+    },
+    "DENGUE, ANTICORPOS IGG, SORO (TESTE RAPIDO)": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": "Dengue"
+    },
+    "DENGUE, ANTICORPOS IGM, SORO (TESTE RAPIDO) ": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": "Dengue"
+    },
+    "DENSITOMETRIA OSSEA (UM SEGMENTO)": {
+        "Categoria": "Exame de Imagem",
+        "Doença": "Osteoporose"
+    },
+    "DENSITOMETRIA OSSEA - 2 SEGMENTOS (COLUNA E FEMUR)": {
+        "Categoria": "Exame de Imagem",
+        "Doença": "Osteoporose"
+    },
+    "DENSITOMETRIA OSSEA - CORPO INTEIRO": {
+        "Categoria": "Exame de Imagem",
+        "Doença": "Osteoporose"
+    },
+    "DERMATOSCOPIA (POR LESAO)": {
+        "Categoria": "Exame Dermatológico",
+        "Doença": null
+    },
+    "DERMOLIPECTOMIA PARA CORRECAO DE ABDOME EM AVENTAL": {
+        "Categoria": "Procedimento Cirúrgico Plástico",
+        "Doença": null
+    },
+    "DESBRIDAMENTO CIRURGICO - P/UNID TOPOGRAFICA (UT)": {
+        "Categoria": "Procedimento Cirúrgico",
+        "Doença": null
+    },
+    "DESCOMPRESSAO MEDULAR E/OU CAUDA EQUINA": {
+        "Categoria": "Procedimento Cirúrgico Neurológico",
+        "Doença": null
+    },
+    "DESIDROGENASE LACTICA - ISOENZIMAS FRACIONADAS": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": null
+    },
+    "DESIDROGENASE LACTICA - PESQUISA E/OU DOSAGEM": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": null
+    },
+    "DESPESA HOSPITALAR": {
+        "Categoria": "Despesa Administrativa",
+        "Doença": null
+    },
+    "DETECCAO/TIPAGEM HERPES VIRUS 1/2 LIQUOR": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": "Herpes"
+    },
+    "DETERM RH (D),C/PROVA P/D-FRACO NO SANGUE RECEPTOR": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": null
+    },
+    "DETERMINACAO DAS PRESSOES RESPIRATORIAS MAXIMAS": {
+        "Categoria": "Exame de Função Pulmonar",
+        "Doença": null
+    },
+    "DETERMINACAO DOS VOLUMES PULMONARES POR DILUICAO DE GASES": {
+        "Categoria": "Exame de Função Pulmonar",
+        "Doença": null
+    },
+    "DETERMINACAO VOLUMES PULMONARES P/ PLETISMOGRAFIA": {
+        "Categoria": "Exame de Função Pulmonar",
+        "Doença": null
+    },
+    "DIALDEIDO MALONICO - PESQUISA E/OU DOSAGEM": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": null
+    },
+    "DILATACAO DIG OU INSTRUMENTAL DO ANUS E/OU RETO": {
+        "Categoria": "Procedimento Proctológico",
+        "Doença": null
+    },
+    "DIMERO D - PESQUISA E/OU DOSAGEM": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": "Trombose"
+    },
+    "DISCOGRAFIA": {
+        "Categoria": "Exame de Imagem",
+        "Doença": null
+    },
+    "DISMORFISMO ERITROCITARIO, PESQ (CONTRASTE FASE)": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": null
+    },
+    "DISSECCAO MUSCULAR": {
+        "Categoria": "Procedimento Cirúrgico",
+        "Doença": null
+    },
+    "DISTURBIOS CIRC ARTERIO-VENOSOS E LINFATICOS": {
+        "Categoria": "Doença Vascular",
+        "Doença": null
+    },
+    "DIVERTICULO DE MECKEL - EXERESE POR VIDEOLAPAROSCOPIA": {
+        "Categoria": "Procedimento Cirúrgico",
+        "Doença": "Divertículo de Meckel"
+    },
+    "DOENCAS PULMONARES ATENDIDAS EM AMBULATORIO": {
+        "Categoria": "Consulta",
+        "Doença": "Doenças Pulmonares"
+    },
+    "DOPPLER COLOR A.VISC(MESENT SUP/INF E T.CELIACO)": {
+        "Categoria": "Exame de Imagem",
+        "Doença": null
+    },
+    "DOPPLER COLOR V.CERV ART BILAT(CAROTID E VERTEBR)": {
+        "Categoria": "Exame de Imagem",
+        "Doença": null
+    },
+    "DOPPLER COLOR V.CERV VEN BILAT(SUBCLAV E JUGULAR)": {
+        "Categoria": "Exame de Imagem",
+        "Doença": null
+    },
+    "DOPPLER COLOR VENOSO DE MI - UNILATERAL": {
+        "Categoria": "Exame de Imagem",
+        "Doença": null
+    },
+    "DOPPLER COLOR VENOSO DE MS - UNILATERAL": {
+        "Categoria": "Exame de Imagem",
+        "Doença": null
+    },
+    "DOPPLER COLORIDO ARTERIAL DE MI - UNILATERAL": {
+        "Categoria": "Exame de Imagem",
+        "Doença": null
+    },
+    "DOPPLER COLORIDO DE AORTA E ARTERIAS RENAIS": {
+        "Categoria": "Exame de Imagem",
+        "Doença": null
+    },
+    "DOPPLER COLORIDO DE AORTA E ILIACAS": {
+        "Categoria": "Exame de Imagem",
+        "Doença": null
+    },
+    "DOPPLER COLORIDO DE ORGAO OU ESTRUTURA ISOLADA": {
+        "Categoria": "Exame de Imagem",
+        "Doença": null
+    },
+    "DOPPLER COLORIDO INTRA-OPERATORIO": {
+        "Categoria": "Exame de Imagem",
+        "Doença": null
+    },
+    "DOPPLER COLORIDO VEIA CAVA SUPERIOR OU INFERIOR": {
+        "Categoria": "Exame de Imagem",
+        "Doença": null
+    },
+    "DOPPLER TRANSCRANIANO": {
+        "Categoria": "Exame de Imagem",
+        "Doença": null
+    },
+    "DOSAGEM FECAL DE CALPROTECTINA": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": null
+    },
+    "ECG CONVENCIONAL DE ATE 12 DERIVACOES": {
+        "Categoria": "Exame Cardiológico",
+        "Doença": null
+    },
+    "ECG DE ALTA RESOLUCAO": {
+        "Categoria": "Exame Cardiológico",
+        "Doença": null
+    },
+    "ECOCARDIOGRAFIA UNI-DIMENSIONAL": {
+        "Categoria": "Exame de Imagem",
+        "Doença": null
+    },
+    "ECODOPPLERCARD TRANSESOFAG (INCLUI TRANSTORACICO)": {
+        "Categoria": "Exame de Imagem",
+        "Doença": null
+    },
+    "ECODOPPLERCARDIOG FETAL C/MAP FLUX COR - POR FETO": {
+        "Categoria": "Exame de Imagem",
+        "Doença": null
+    },
+    "ECODOPPLERCARDIOGRAMA COM ESTRESSE FARMACOLOGICO": {
+        "Categoria": "Exame cardiológico",
+        "Doença": "Doenças cardíacas"
+    },
+    "ECODOPPLERCARDIOGRAMA TRANSTORACICO": {
+        "Categoria": "Exame cardiológico",
+        "Doença": "Doenças cardíacas"
+    },
+    "ECOENDOSCOPIA ALTA": {
+        "Categoria": "Exame endoscópico",
+        "Doença": null
+    },
+    "EDA C/BIOP E T.UREASE (PESQ HELICOBACTER PYLORI)": {
+        "Categoria": "Exame endoscópico",
+        "Doença": "Infecção por Helicobacter pylori"
+    },
+    "EEG DE ROTINA": {
+        "Categoria": "Exame neurológico",
+        "Doença": null
+    },
+    "EEG EM VIGILIA, E SONO ESPONTANEO OU INDUZIDO": {
+        "Categoria": "Exame neurológico",
+        "Doença": null
+    },
+    "EEG ESP: TERAP INT, MORTE ENC, EEG PROL (ATE 2 H)": {
+        "Categoria": "Exame neurológico",
+        "Doença": null
+    },
+    "EEGQ QUANTITATIVO (MAPEAMENTO CEREBRAL)": {
+        "Categoria": "Exame neurológico",
+        "Doença": null
+    },
+    "ELASTOGRAFIA HEPATICA ULT": {
+        "Categoria": "Exame de imagem",
+        "Doença": "Doenças hepáticas"
+    },
+    "ELETROC LES PELE, MUC, C/OU S/CURETAG (P/GR ATE 5)": {
+        "Categoria": "Procedimento dermatológico",
+        "Doença": "Lesões de pele"
+    },
+    "ELETROCARDIOGRAMA ECG": {
+        "Categoria": "Exame cardiológico",
+        "Doença": null
+    },
+    "ELETROCOCLEOGRAFIA (ECOCHG)": {
+        "Categoria": "Exame otorrinolaringológico",
+        "Doença": "Doenças do ouvido interno"
+    },
+    "ELETROESTIMULACAO DO ASSOALHO PELVICO E/OU OUTRA TECNICA DE EXERCICIOS PERINEAIS": {
+        "Categoria": "Procedimento fisioterapêutico",
+        "Doença": "Disfunções do assoalho pélvico"
+    },
+    "ELETROFERESE DE PROTEINAS": {
+        "Categoria": "Exame laboratorial",
+        "Doença": null
+    },
+    "ELETROFORESE DE HEMOGLOBINA P/COMP HEMOTERAPICO": {
+        "Categoria": "Exame laboratorial",
+        "Doença": "Hemoglobinopatias"
+    },
+    "ELETROFORESE DE LIPOPROTEINAS": {
+        "Categoria": "Exame laboratorial",
+        "Doença": "Dislipidemias"
+    },
+    "ELETROFORESE DE PROT NO LIQUOR, C/ CONCENTRACAO": {
+        "Categoria": "Exame laboratorial",
+        "Doença": "Doenças neurológicas"
+    },
+    "ELETROFORESE DE PROTEINAS DE ALTA RESOLUCAO": {
+        "Categoria": "Exame laboratorial",
+        "Doença": null
+    },
+    "ELETRONEUROMIOGRAFIA DE MMII": {
+        "Categoria": "Exame neurológico",
+        "Doença": "Doenças neuromusculares"
+    },
+    "ELETRONEUROMIOGRAFIA DE MMSS": {
+        "Categoria": "Exame neurológico",
+        "Doença": "Doenças neuromusculares"
+    },
+    "ELETRONEUROMIOGRAFIA DE MMSS E MMII": {
+        "Categoria": "Exame neurológico",
+        "Doença": "Doenças neuromusculares"
+    },
+    "ELETRONEUROMIOGRAFIA DE SEGMENTO COMPLEMENTAR": {
+        "Categoria": "Exame neurológico",
+        "Doença": "Doenças neuromusculares"
+    },
+    "ELETRONEUROMIOGRAFIA DE SEGMENTO ESPECIAL": {
+        "Categoria": "Exame neurológico",
+        "Doença": "Doenças neuromusculares"
+    },
+    "EMG QUANTITATIVA OU EMG DE FIBRA UNICA": {
+        "Categoria": "Exame neurológico",
+        "Doença": "Doenças neuromusculares"
+    },
+    "ENDOMETRIOSE PERITONEAL - TTO CIR VIA LAPAR": {
+        "Categoria": "Procedimento cirúrgico",
+        "Doença": "Endometriose"
+    },
+    "ENDOSCOPIA DIGESTIVA ALTA": {
+        "Categoria": "Exame endoscópico",
+        "Doença": null
+    },
+    "ENDOSCOPIA DIGESTIVA ALTA C/BIOPSIA E/OU CITOLOGIA": {
+        "Categoria": "Exame endoscópico",
+        "Doença": null
+    },
+    "ENSAIO P/ DOSAGEM DA LIBERAÇAO DE INTERFERON GAMA": {
+        "Categoria": "Exame laboratorial",
+        "Doença": "Tuberculose"
+    },
+    "ENTEROPEXIA (QUALQUER SEGMENTO)": {
+        "Categoria": "Procedimento cirúrgico",
+        "Doença": null
+    },
+    "ENXERTO OSSEO": {
+        "Categoria": "Procedimento cirúrgico",
+        "Doença": null
+    },
+    "EPILACAO": {
+        "Categoria": "Procedimento dermatológico",
+        "Doença": null
+    },
+    "EPIPLOPLAST/APLIC MEMBR ANTIADERENTES VIA LAPAROSC": {
+        "Categoria": "Procedimento cirúrgico",
+        "Doença": null
+    },
+    "EPISTAXE - CAUTERIZACAO (QUALQUER TECNICA)": {
+        "Categoria": "Procedimento otorrinolaringológico",
+        "Doença": "Epistaxe"
+    },
+    "EPISTAXE - TAMPONAMENTO ANTERIOR": {
+        "Categoria": "Procedimento otorrinolaringológico",
+        "Doença": "Epistaxe"
+    },
+    "ERGOESPIROMETRIA OU TESTE CARDIOPULM EXERC COMPL": {
+        "Categoria": "Exame cardiológico",
+        "Doença": null
+    },
+    "ERITROPOIETINA - PESQUISA E/OU DOSAGEM": {
+        "Categoria": "Exame laboratorial",
+        "Doença": "Anemias"
+    },
+    "ESCLEROTERAPIA DE VEIAS - POR SESSAO": {
+        "Categoria": "Procedimento vascular",
+        "Doença": "Varizes"
+    },
+    "ESPECTROGRAFIA VOCAL": {
+        "Categoria": "Exame otorrinolaringológico",
+        "Doença": "Distúrbios vocais"
+    },
+    "ESPECTROSCOPIA POR RM": {
+        "Categoria": "Exame de imagem",
+        "Doença": null
+    },
+    "ESPERM (C. FIS, PH, FLUD, MOT, VITAL CONT E MORF)": {
+        "Categoria": "Exame laboratorial",
+        "Doença": "Infertilidade masculina"
+    },
+    "ESPIROGRAFIA SIMPLES - CAPACIDADE VITAL LENTA": {
+        "Categoria": "Exame pneumológico",
+        "Doença": null
+    },
+    "EST ELETROFIS CARDIACO C/": {
+        "Categoria": "Exame cardiológico",
+        "Doença": "Arritmias cardíacas"
+    },
+    "ESTEREO-FOTO DE PAPILA - MONOCULAR": {
+        "Categoria": "Exame oftalmológico",
+        "Doença": "Glaucoma"
+    },
+    "ESTIMULACAO ELETRICA TRANSCUTANEA": {
+        "Categoria": "Procedimento fisioterapêutico",
+        "Doença": null
+    },
+    "ESTRABISMO HORIZ - MONOCULAR - TRAT CIRURGICO": {
+        "Categoria": "Procedimento oftalmológico",
+        "Doença": "Estrabismo"
+    },
+    "ESTRADIOL - PESQUISA E/OU DOSAGEM": {
+        "Categoria": "Exame laboratorial",
+        "Doença": null
+    },
+    "ESTREPTOCOCOS - A, TESTE RAPIDO": {
+        "Categoria": "Exame laboratorial",
+        "Doença": "Infecção por estreptococo"
+    },
+    "ESTRIOL - PESQUISA E/OU DOSAGEM": {
+        "Categoria": "Exame laboratorial",
+        "Doença": null
+    },
+    "ESTRONA - PESQUISA E/OU DOSAGEM": {
+        "Categoria": "Exame laboratorial",
+        "Doença": null
+    },
+    "ESTUDO ULTRA-SONOGRAFICO INTRAVASCULAR": {
+        "Categoria": "Exame de imagem",
+        "Doença": "Doenças vasculares"
+    },
+    "ETMOIDECTOMIA INTRANASAL": {
+        "Categoria": "Procedimento otorrinolaringológico",
+        "Doença": "Sinusite"
+    },
+    "ETMOIDECTOMIA INTRANASAL POR VIDEOENDOSCOPIA": {
+        "Categoria": "Procedimento otorrinolaringológico",
+        "Doença": "Sinusite"
+    },
+    "EX DE MOTILIDADE OCULAR (TESTE ORTOPTICO) - BINOC": {
+        "Categoria": "Exame oftalmológico",
+        "Doença": "Estrabismo"
+    },
+    "EXAME A FRESCO DO CONTEUDO VAGINAL E CERVICAL": {
+        "Categoria": "Exame ginecológico",
+        "Doença": null
+    },
+    "EXAME COMPLETO DO LIQUOR": {
+        "Categoria": "Exame laboratorial",
+        "Doença": "Doenças neurológicas"
+    },
+    "EXAME MICOLOGICO DIRETO (POR LOCAL)": {
+        "Categoria": "Exame laboratorial",
+        "Doença": "Infecções fúngicas"
+    },
+    "EXCISAO DE PLICOMA": {
+        "Categoria": "Procedimento proctológico",
+        "Doença": "Hemorroidas"
+    },
+    "EXCISAO DE POLIPO CERVICAL": {
+        "Categoria": "Procedimento ginecológico",
+        "Doença": "Pólipo cervical"
+    },
+    "EXER LESAO DA VULVA/PERINEO (GR DE ATE 5 LESOES)": {
+        "Categoria": "Procedimento ginecológico",
+        "Doença": "Lesões vulvares"
+    },
+    "EXERC PARA REAB DO ASMATICO (ERAI) - SESSAO INDIV": {
+        "Categoria": "Procedimento fisioterapêutico",
+        "Doença": "Asma"
+    },
+    "EXERESE DE LESAO / TUMOR DE PELE E MUCOSAS": {
+        "Categoria": "Procedimento dermatológico",
+        "Doença": "Tumores de pele"
+    },
+    "EXERESE DE UNHA": {
+        "Categoria": "Procedimento dermatológico",
+        "Doença": "Onicocriptose"
+    },
+    "EXERESE SUT HEMANG,LINFANG, NEVUS(GRUPO 5 LESOES)": {
+        "Categoria": "Procedimento dermatológico",
+        "Doença": "Lesões vasculares e nevos"
+    },
+    "EXERESE TANGENCIAL(SHAVING)-(GRUPO ATE 5 LESOES)": {
+        "Categoria": "Procedimento dermatológico",
+        "Doença": "Lesões de pele"
+    },
+    "EXERESE TUMOR E ROTACAO RETALHO MUSCULO-CUTANEO": {
+        "Categoria": "Procedimento cirúrgico",
+        "Doença": "Tumores de pele"
+    },
+    "EXERESE/SUTURA LESOES(CIRC OU NAO) C/ROT RETAL CUT": {
+        "Categoria": "Procedimento cirúrgico",
+        "Doença": "Lesões de pele"
+    },
+    "EXERESE/SUTURA SIMPLES PEQ LESOES - ATE 5 LESOES": {
+        "Categoria": "Procedimento cirúrgico",
+        "Doença": "Lesões de pele"
+    },
+    "EXTENSOS FERIMENTOS, CICATRIZES OU TUMORES - EXERESE E ROTACAO DE RETALHO FASCIOCUTANEO OU AXIAL": {
+        "Categoria": "Procedimento cirúrgico",
+        "Doença": "Lesões extensas de pele"
+    },
+    "FACE - BIOPSIA": {
+        "Categoria": "Procedimento dermatológico",
+        "Doença": null
+    },
+    "FACECTOMIA C/ LENTE INTRAOCULAR C/ FACOEMULSIFIC": {
+        "Categoria": "Procedimento oftalmológico",
+        "Doença": "Catarata"
+    },
+    "FALCIZACAO, TESTE DE": {
+        "Categoria": "Exame laboratorial",
+        "Doença": "Anemia falciforme"
+    },
+    "FATOR ANTINUCLEO, (FAN) - PESQUISA E/OU DOSAGEM": {
+        "Categoria": "Exame laboratorial",
+        "Doença": "Doenças autoimunes"
+    },
+    "FATOR REUMATOIDE, QUANTITATIVO": {
+        "Categoria": "Exame laboratorial",
+        "Doença": "Artrite reumatoide"
+    },
+    "FATOR REUMATOIDE, TESTE DO LATEX (QUALITATIVO)": {
+        "Categoria": "Exame laboratorial",
+        "Doença": "Artrite reumatoide"
+    },
+    "FATOR V DE LAYDEN POR PCR - PESQUISA": {
+        "Categoria": "Exame laboratorial",
+        "Doença": "Trombofilia"
+    },
+    "FATOR VII - PESQUISA E/OU DOSAGEM": {
+        "Categoria": "Exame laboratorial",
+        "Doença": "Distúrbios de coagulação"
+    },
+    "FATOR VIII, DOSAGEM": {
+        "Categoria": "Exame laboratorial",
+        "Doença": "Hemofilia A"
+    },
+    "FATOR VIII, DOSAGEM DO ANTIGENO (VON WILLEBRAND)": {
+        "Categoria": "Exame laboratorial",
+        "Doença": "Doença de von Willebrand"
+    },
+    "FC HEPAT- BILIRR, ELETR PROT, FA, TGO, TGP E G-PGT": {
+        "Categoria": "Exame laboratorial",
+        "Doença": "Doenças hepáticas"
+    },
+    "FECHAMENTO DE COLOSTOMIA OU ENTEROSTOMIA": {
+        "Categoria": "Procedimento cirúrgico",
+        "Doença": null
+    },
+    "FENOTIPAGEM DO SISTEM RH-HR D, C, E, C, E E KELL": {
+        "Categoria": "Exame laboratorial",
+        "Doença": null
+    },
+    "FENOTIPAGEM OUTROS SIST ERITROCITARIOS-P/FENOTIPO": {
+        "Categoria": "Exame laboratorial",
+        "Doença": null
+    },
+    "FERIMENT,CICAT OU TUMORES-EXERESE RET CUT A DIST": {
+        "Categoria": "Procedimento cirúrgico",
+        "Doença": "Lesões de pele"
+    },
+    "FERIMENTOS,CICAT OU TUMORES - EXC E RET CUT DA REG": {
+        "Categoria": "Procedimento cirúrgico",
+        "Doença": "Lesões de pele"
+    },
+    "FERIMENTOS,CICAT OU TUMORES-EXERESE,ROT RET MIOCUT": {
+        "Categoria": "Procedimento cirúrgico",
+        "Doença": "Lesões de pele"
+    },
+    "FERIMENTOS,CICAT, OU TUMORES-EXERESE E ENXERTO CUT": {
+        "Categoria": "Procedimento cirúrgico",
+        "Doença": "Lesões de pele"
+    },
+    "FERRITINA - PESQUISA E/OU DOSAGEM": {
+        "Categoria": "Exame laboratorial",
+        "Doença": "Anemias"
+    },
+    "FERRO SERICO - PESQUISA E/OU DOSAGEM": {
+        "Categoria": "Exame laboratorial",
+        "Doença": "Anemias"
+    },
+    "FIBRINOGENIO, TESTE FUNCIONAL, DOSAGEM": {
+        "Categoria": "Exame laboratorial",
+        "Doença": "Distúrbios de coagulação"
+    },
+    "FISIOTERAPIA A LASER": {
+        "Categoria": "Procedimento fisioterapêutico",
+        "Doença": null
+    },
+    "FISSURECTOMIA COM OU SEM ESFINCTEROTOMIA": {
+        "Categoria": "Procedimento proctológico",
+        "Doença": "Fissura anal"
+    },
+    "FLUOR (PARA FLUORETOS) - PESQUISA E/OU DOSAGEM": {
+        "Categoria": "Exame laboratorial",
+        "Doença": null
+    },
+    "FOLICULO ESTIMULANTE, HORMONIO (FSH)": {
+        "Categoria": "Exame laboratorial",
+        "Doença": null
+    },
+    "FOSFATASE ACIDA TOTAL - PESQUISA E/OU DOSAGEM": {
+        "Categoria": "Exame laboratorial",
+        "Doença": null
+    },
+    "FOSFATASE ALCALINA - PESQUISA E/OU DOSAGEM": {
+        "Categoria": "Exame laboratorial",
+        "Doença": null
+    },
+    "FOSFOLIPIDIOS (RELACAO LECITINA/ESFINGOMIELINA)": {
+        "Categoria": "Exame laboratorial",
+        "Doença": null
+    },
+    "FOSFORO - PESQUISA E/OU DOSAGEM": {
+        "Categoria": "Exame laboratorial",
+        "Doença": null
+    },
+    "FOTOCOAGULACAO (LASER) - POR SESSAO - MONOCULAR": {
+        "Categoria": "Procedimento oftalmológico",
+        "Doença": "Retinopatias"
+    },
+    "FOTODERMATOSCOPIA (POR LESAO)": {
+        "Categoria": "Exame dermatológico",
+        "Doença": "Lesões de pele"
+    },
+    "FRAT E/OU LUX FALANGES(INTERFALANG)-RED INCRUENTA": {
+        "Categoria": "Procedimento ortopédico",
+        "Doença": "Fraturas"
+    },
+    "FRAT FALANGES OU METACARPIANOS - TRAT CIR C/ FIX": {
+        "Categoria": "Procedimento ortopédico",
+        "Doença": "Fraturas"
+    },
+    "FRATURA DE COLUNA SEM GESSO - TTO CONSERVADOR": {
+        "Categoria": "Procedimento ortopédico",
+        "Doença": "Fraturas"
+    },
+    "FRATURA DE OSSO DO PE - TRATAMENTO CONSERVADOR": {
+        "Categoria": "Procedimento ortopédico",
+        "Doença": "Fraturas"
+    },
+    "FRATURA DE PUNHO - TRATAMENTO CONSERVADOR": {
+        "Categoria": "Procedimento ortopédico",
+        "Doença": "Fraturas"
+    },
+    "FRATURA DE TORNOZELO - TRATAMENTO CONSERVADOR": {
+        "Categoria": "Procedimento ortopédico",
+        "Doença": "Fraturas"
+    },
+    "FRATURAS E/OU LUXACOES E/OU AVULSOES - RED INCRUEN": {
+        "Categoria": "Procedimento ortopédico",
+        "Doença": "Fraturas e luxações"
+    },
+    "FRENOTOMIA LINGUAL": {
+        "Categoria": "Procedimento odontológico",
+        "Doença": "Anquiloglossia"
+    },
+    "FRUTOSAMINAS (PROTEINAS GLICOSILADAS)": {
+        "Categoria": "Exame laboratorial",
+        "Doença": "Diabetes"
+    },
+    "FUNDOSCOPIA SOB MEDRIASES - BINOCULAR": {
+        "Categoria": "Exame oftalmológico",
+        "Doença": null
+    },
+    "FUNGOS, PESQ (A FRESCO LACTOFENOL, TINTA DA CHINA)": {
+        "Categoria": "Exame laboratorial",
+        "Doença": "Infecções fúngicas"
+    },
+    "FURUNCULO - DRENAGEM (OUVIDO)": {
+        "Categoria": "Procedimento otorrinolaringológico",
+        "Doença": "Furúnculo"
+    },
+    "GAD-AB-ANTIDESCARBOXILASE DO ACIDO": {
+        "Categoria": "Exame laboratorial",
+        "Doença": "Diabetes tipo 1"
+    },
+    "GAMA-GLUTAMIL TRANSFERASE - PESQUISA E/OU DOSAGEM": {
+        "Categoria": "Exame laboratorial",
+        "Doença": "Doenças hepáticas"
+    },
+    "GASES MEDICINAIS": {
+        "Categoria": "Insumo hospitalar",
+        "Doença": null
+    },
+    "GASOM HB HT NA K CL CA GLIC LACT (QDO EFET GASOM)": {
+        "Categoria": "Exame laboratorial",
+        "Doença": null
+    },
+    "GASOMETRIA (PH, PCO2, SA, O2, EXCESSO BASE)": {
+        "Categoria": "Exame laboratorial",
+        "Doença": null
+    },
+    "GASTROPLASTIA PARA OBESIDADE MORBIDA VIDEO": {
+        "Categoria": "Procedimento cirúrgico",
+        "Doença": "Obesidade mórbida"
+    },
+    "GIARDIA, REACAO SOROLOGICA": {
+        "Categoria": "Exame laboratorial",
+        "Doença": "Giardíase"
+    },
+    "GLICEMIA APOS SOBRECARGA COM DEXTROSOL OU GLICOSE": {
+        "Categoria": "Exame laboratorial",
+        "Doença": "Diabetes"
+    },
+    "GLICOSE - PESQUISA E/OU DOSAGEM": {
+        "Categoria": "Exame laboratorial",
+        "Doença": null
+    },
+    "GLICOSE-6-FOSFATO DEIDROGENASE (G6FD)": {
+        "Categoria": "Exame laboratorial",
+        "Doença": "Deficiência de G6PD"
+    },
+    "GLOBULINA DE LIGACAO DE HORMONIOS SEXUAIS (SHBG)": {
+        "Categoria": "Exame laboratorial",
+        "Doença": null
+    },
+    "GLOBULINA TRANSPORTADORA DA TIROXINA (TBG)": {
+        "Categoria": "Exame laboratorial",
+        "Doença": "Doenças da tireoide"
+    },
+    "GONADOTROFICO CORIONICO, HORMONIO (HCG)": {
+        "Categoria": "Exame laboratorial",
+        "Doença": null
+    },
+    "GONADOTROFINA CORIONICA - HEMAGLUTINACAO OU LATEX": {
+        "Categoria": "Exame laboratorial",
+        "Doença": null
+    },
+    "GONIOSCOPIA - BINOCULAR": {
+        "Categoria": "Exame oftalmológico",
+        "Doença": "Glaucoma"
+    },
+    "GORDURA FECAL, DOSAGEM": {
+        "Categoria": "Exame laboratorial",
+        "Doença": "Má absorção intestinal"
+    },
+    "GORDURA FECAL, PESQUISA DE": {
+        "Categoria": "Exame laboratorial",
+        "Doença": "Má absorção intestinal"
+    },
+    "GRUPO ABO, CLASSIFICACAO REVERSA - DETERMINACAO": {
+        "Categoria": "Exame laboratorial",
+        "Doença": null
+    },
+    "GRUPO SANGUINEO ABO E RH - GEL TESTE- PESQUISA": {
+        "Categoria": "Exame laboratorial",
+        "Doença": null
+    },
+    "GRUPO SANGUINEO ABO E RH - PESQUISA": {
+        "Categoria": "Exame laboratorial",
+        "Doença": null
+    },
+    "GRUPO SANGUINEO ABO, E FATOR RHO (INCLUI DU)": {
+        "Categoria": "Exame laboratorial",
+        "Doença": null
+    },
+    "HALLUX VALGUS (UM PE) - TRATAMENTO CIRURGICO": {
+        "Categoria": "Procedimento cirúrgico",
+        "Doença": "Hallux valgus"
+    },
+    "HAPTOGLOBINA - PESQUISA E/OU DOSAGEM": {
+        "Categoria": "Exame laboratorial",
+        "Doença": null
+    },
+    "HDP AG (SS HDL, HFT, HDF ISOL, PMF/HPF) - ATE 12 H": {
+        "Categoria": "Exame laboratorial",
+        "Doença": null
+    },
+    "HEINZ, CORPUSCULOS, PESQUISA": {
+        "Categoria": "Exame laboratorial",
+        "Doença": "Anemia hemolítica"
+    },
+    "HELICOBACTER PYLORI - IGG - PESQUISA E/OU DOSAGEM": {
+        "Categoria": "Exame laboratorial",
+        "Doença": "Infecção por Helicobacter pylori"
+    },
+    "HELICOBACTER PYLORI - IGM - PESQUISA E/OU DOSAGEM": {
+        "Categoria": "Exame laboratorial",
+        "Doença": "Infecção por Helicobacter pylori"
+    },
+    "HEMOCULTURA AUTOMATIZADA (POR AMOSTRA)": {
+        "Categoria": "Exame laboratorial",
+        "Doença": "Infecções bacterianas"
+    },
+    "HEMOCULTURA P/ BACTERIAS ANAEROBIAS (POR AMOSTRA)": {
+        "Categoria": "Exame laboratorial",
+        "Doença": "Infecções bacterianas anaeróbias"
+    },
+    "HEMOG C/ CONT PLAQ OU FCS (ERITROGR, LEUCOG, PLAQ)": {
+        "Categoria": "Exame laboratorial",
+        "Doença": null
+    },
+    "HEMOGLOBINA (ELETROFORESE) - PESQUISA E/OU DOSAGEM": {
+        "Categoria": "Exame laboratorial",
+        "Doença": "Hemoglobinopatias"
+    },
+    "HEMOGLOBINA GLICADA (A1 TOTAL)": {
+        "Categoria": "Exame laboratorial",
+        "Doença": "Diabetes mellitus"
+    },
+    "HEMOGLOBINA GLICADA (FRACAO A1C)": {
+        "Categoria": "Exame laboratorial",
+        "Doença": "Diabetes mellitus"
+    },
+    "HEMOGLOBINA, DOSAGEM": {
+        "Categoria": "Exame laboratorial",
+        "Doença": "Anemia"
+    },
+    "HEMORROIDECTOMIA AB OU FECH, C/ OU S/ ESFINCTEROT": {
+        "Categoria": "Procedimento cirúrgico",
+        "Doença": "Hemorroidas"
+    },
+    "HEMOSSEDIMENTACAO, (VHS) - PESQUISA E/OU DOSAGEM": {
+        "Categoria": "Exame laboratorial",
+        "Doença": null
+    },
+    "HEMOSTASIAS DE COLON": {
+        "Categoria": "Procedimento cirúrgico",
+        "Doença": "Sangramento colônico"
+    },
+    "HEPATITE A - HAV - IGG - PESQUISA E/OU DOSAGEM": {
+        "Categoria": "Exame laboratorial",
+        "Doença": "Hepatite A"
+    },
+    "HEPATITE A - HAV - IGM - PESQUISA E/OU DOSAGEM": {
+        "Categoria": "Exame laboratorial",
+        "Doença": "Hepatite A"
+    },
+    "HEPATITE B (QUANTITATIVO) PCR - PESQUISA": {
+        "Categoria": "Exame laboratorial",
+        "Doença": "Hepatite B"
+    },
+    "HEPATITE B - HBCAC - IGG (ANTICORE IGG OU ACOREG)": {
+        "Categoria": "Exame laboratorial",
+        "Doença": "Hepatite B"
+    },
+    "HEPATITE B - HBCAC - IGM (ANTICORE IGM OU ACOREM)": {
+        "Categoria": "Exame laboratorial",
+        "Doença": "Hepatite B"
+    },
+    "HEPATITE B - HBEAC (ANTI HBE)": {
+        "Categoria": "Exame laboratorial",
+        "Doença": "Hepatite B"
+    },
+    "HEPATITE B - HBEAG (ANTIGENO \"E\")": {
+        "Categoria": "Exame laboratorial",
+        "Doença": "Hepatite B"
+    },
+    "HEPATITE B - HBSAC (ANTIANTIGENO DE SUPERFICIE)": {
+        "Categoria": "Exame laboratorial",
+        "Doença": "Hepatite B"
+    },
+    "HEPATITE B - HBSAG (AU, ANTIGENO AUSTRALIA)": {
+        "Categoria": "Exame laboratorial",
+        "Doença": "Hepatite B"
+    },
+    "HEPATITE C (QUANTITATIVO) POR PCR - PESQUISA": {
+        "Categoria": "Exame laboratorial",
+        "Doença": "Hepatite C"
+    },
+    "HEPATITE C - ANTI-HCV - PESQUISA E/OU DOSAGEM": {
+        "Categoria": "Exame laboratorial",
+        "Doença": "Hepatite C"
+    },
+    "HEPATORRAFIA": {
+        "Categoria": "Procedimento cirúrgico",
+        "Doença": "Lesão hepática"
+    },
+    "HERNIA DE DISCO CERVICAL - TRATAMENTO CIRURGICO": {
+        "Categoria": "Procedimento cirúrgico",
+        "Doença": "Hérnia de disco cervical"
+    },
+    "HERNIA DE DISCO TORACO-LOMBAR - TRAT CIRURGICO": {
+        "Categoria": "Procedimento cirúrgico",
+        "Doença": "Hérnia de disco toraco-lombar"
+    },
+    "HERNIORRAFIA EPIGASTRICA": {
+        "Categoria": "Procedimento cirúrgico",
+        "Doença": "Hérnia epigástrica"
+    },
+    "HERNIORRAFIA INCISIONAL": {
+        "Categoria": "Procedimento cirúrgico",
+        "Doença": "Hérnia incisional"
+    },
+    "HERNIORRAFIA INGUINAL - UNILATERAL": {
+        "Categoria": "Procedimento cirúrgico",
+        "Doença": "Hérnia inguinal"
+    },
+    "HERNIORRAFIA INGUINAL - UNILATERAL POR VIDEO": {
+        "Categoria": "Procedimento cirúrgico",
+        "Doença": "Hérnia inguinal"
+    },
+    "HERNIORRAFIA UMBILICAL": {
+        "Categoria": "Procedimento cirúrgico",
+        "Doença": "Hérnia umbilical"
+    },
+    "HERPES SIMPLES - IGG - PESQUISA E/OU DOSAGEM": {
+        "Categoria": "Exame laboratorial",
+        "Doença": "Herpes simples"
+    },
+    "HERPES SIMPLES - IGM - PESQUISA E/OU DOSAGEM": {
+        "Categoria": "Exame laboratorial",
+        "Doença": "Herpes simples"
+    },
+    "HERPES ZOSTER - IGG - PESQUISA E/OU DOSAGEM": {
+        "Categoria": "Exame laboratorial",
+        "Doença": "Herpes zoster"
+    },
+    "HERPES ZOSTER - IGM - PESQUISA E/OU DOSAGEM": {
+        "Categoria": "Exame laboratorial",
+        "Doença": "Herpes zoster"
+    },
+    "HIPERTROFIA DOS PEQUENOS LABIOS - CORRECAO CIR": {
+        "Categoria": "Procedimento cirúrgico",
+        "Doença": null
+    },
+    "HIPOSPADIA DISTAL - TRATAMENTO EM 1 TEMPO": {
+        "Categoria": "Procedimento cirúrgico",
+        "Doença": "Hipospádia"
+    },
+    "HISTER TOT AMPL, QQ VIA (NAO INCL A LINFADEN PELV)": {
+        "Categoria": "Procedimento cirúrgico",
+        "Doença": null
+    },
+    "HISTERECT SUBT LAPAROSC C/S ANEX, UNI/BIL (V ALTA)": {
+        "Categoria": "Procedimento cirúrgico",
+        "Doença": null
+    },
+    "HISTERECT TT LAPAROSCOPICA C/ ANEXECTOMIA UNI/BIL": {
+        "Categoria": "Procedimento cirúrgico",
+        "Doença": null
+    },
+    "HISTEROSCOPIA C/ RESSECTOSCOPIO": {
+        "Categoria": "Procedimento cirúrgico",
+        "Doença": null
+    },
+    "HISTEROSCOPIA CIRURGICA": {
+        "Categoria": "Procedimento cirúrgico",
+        "Doença": null
+    },
+    "HISTEROSCOPIA DIAGNOSTICA COM BIOPSIA": {
+        "Categoria": "Procedimento diagnóstico",
+        "Doença": null
+    },
+    "HISTEROSSALPINGOGRAFIA": {
+        "Categoria": "Exame de imagem",
+        "Doença": null
+    },
+    "HISTOPLASMOSE, REACAO SOROLOGICA": {
+        "Categoria": "Exame laboratorial",
+        "Doença": "Histoplasmose"
+    },
+    "HIV - CARGA VIRAL PCR - PESQUISA": {
+        "Categoria": "Exame laboratorial",
+        "Doença": "HIV/AIDS"
+    },
+    "HIV1 OU HIV2, PESQUISA DE ANTICORPOS": {
+        "Categoria": "Exame laboratorial",
+        "Doença": "HIV/AIDS"
+    },
+    "HIV1+ HIV2, (DETERMINACAO CONJUNTA), PESQ ANTICORP": {
+        "Categoria": "Exame laboratorial",
+        "Doença": "HIV/AIDS"
+    },
+    "HLA-DR+DQ - PESQUISA E/OU DOSAGEM": {
+        "Categoria": "Exame laboratorial",
+        "Doença": null
+    },
+    "HOLTER DE 24 HORAS - 2 OU MAIS CANAIS - ANALOGICO": {
+        "Categoria": "Exame cardiológico",
+        "Doença": null
+    },
+    "HOLTER DE 24 HORAS - 3 CANAIS - DIGITAL": {
+        "Categoria": "Exame cardiológico",
+        "Doença": null
+    },
+    "HOMOCISTEINA - PESQUISA E/OU DOSAGEM": {
+        "Categoria": "Exame laboratorial",
+        "Doença": null
+    },
+    "HOMOCISTINA, PESQUISA DE": {
+        "Categoria": "Exame laboratorial",
+        "Doença": "Homocistinúria"
+    },
+    "HORM GONODOTROFICO CORIONICO QUALIT (HCG-BETA-HCG)": {
+        "Categoria": "Exame laboratorial",
+        "Doença": null
+    },
+    "HORMONIO GONODOTR CORIONICO QUANTIT (HCG-BETA-HCG)": {
+        "Categoria": "Exame laboratorial",
+        "Doença": null
+    },
+    "HORMONIO LUTEINIZANTE (LH) - PESQUISA E/OU DOSAGEM": {
+        "Categoria": "Exame laboratorial",
+        "Doença": null
+    },
+    "HPV (VIRUS PAPILOMA HUM) + SUBTIPAGEM QD NECES PCR": {
+        "Categoria": "Exame laboratorial",
+        "Doença": "Infecção por HPV"
+    },
+    "HTLV1 OU HTLV2 PESQUISA DE ANTICORPO (CADA)": {
+        "Categoria": "Exame laboratorial",
+        "Doença": "Infecção por HTLV"
+    },
+    "ID AC SER IRR ANTIERITR C/ PAIN DE HEMAC, GEL LISS": {
+        "Categoria": "Exame laboratorial",
+        "Doença": null
+    },
+    "IDENTIF ANTIC SERICOS IRREG ANTIERITROC-HEM ENZ": {
+        "Categoria": "Exame laboratorial",
+        "Doença": null
+    },
+    "IGA - PESQUISA E/OU DOSAGEM": {
+        "Categoria": "Exame laboratorial",
+        "Doença": null
+    },
+    "IGE, GRUPO ESPECIFICO, CADA": {
+        "Categoria": "Exame laboratorial",
+        "Doença": "Alergias"
+    },
+    "IGE, POR ALERGENO, CADA (CADA)": {
+        "Categoria": "Exame laboratorial",
+        "Doença": "Alergias"
+    },
+    "IGE, TOTAL - PESQUISA E/OU DOSAGEM": {
+        "Categoria": "Exame laboratorial",
+        "Doença": "Alergias"
+    },
+    "IGF BP3 (PROTEINA LIG FATORES CRESC\"INSULIN-LIKE\")": {
+        "Categoria": "Exame laboratorial",
+        "Doença": null
+    },
+    "IGG - PESQUISA E/OU DOSAGEM": {
+        "Categoria": "Exame laboratorial",
+        "Doença": null
+    },
+    "IGG, SUBCLASSES 1,2,3,4 (CADA)": {
+        "Categoria": "Exame laboratorial",
+        "Doença": null
+    },
+    "IGM - PESQUISA E/OU DOSAGEM": {
+        "Categoria": "Exame laboratorial",
+        "Doença": null
+    },
+    "IMOBILIZACAO DE MEMBRO INFERIOR": {
+        "Categoria": "Procedimento ortopédico",
+        "Doença": null
+    },
+    "IMOBILIZACAO DE MEMBRO SUPERIOR": {
+        "Categoria": "Procedimento ortopédico",
+        "Doença": null
+    },
+    "IMOBILIZACOES NAO-GESSADAS (QUALQUER SEGMENTO)": {
+        "Categoria": "Procedimento ortopédico",
+        "Doença": null
+    },
+    "IMPEDANCIOMETRIA": {
+        "Categoria": "Exame audiológico",
+        "Doença": null
+    },
+    "IMPL CIR CAT LONGA PERM P/ NPP, QT OU P/ HEMODEP": {
+        "Categoria": "Procedimento cirúrgico",
+        "Doença": null
+    },
+    "IMPL STENT CORO C/ OU S/ ANG BALAO CONCOM (1 VASO)": {
+        "Categoria": "Procedimento cirúrgico",
+        "Doença": "Doença arterial coronariana"
+    },
+    "IMPLANTE DE DESFIBRILADOR INTERNO, PLACAS E ELETRODOS": {
+        "Categoria": "Procedimento cirúrgico",
+        "Doença": "Arritmias cardíacas"
+    },
+    "IMPLANTE DISPOSITIVO INTRA-UTERINO (DIU) HORMONAL": {
+        "Categoria": "Procedimento ginecológico",
+        "Doença": null
+    },
+    "IMUNOELETROFORESE (ESTUDO DA GAMOPATIA)": {
+        "Categoria": "Exame laboratorial",
+        "Doença": "Gamopatias"
+    },
+    "IMUNOFENOTIPAG P/CLASSIF LEUCEMIAS-CITOMETRO FLUXO": {
+        "Categoria": "Exame laboratorial",
+        "Doença": "Leucemias"
+    },
+    "IMUNOFENOTIPAGEM SUBPOP LINFOCIT-CITOMETRO FLUXO": {
+        "Categoria": "Exame laboratorial",
+        "Doença": null
+    },
+    "IMUNOFIXACAO - CADA FRACAO": {
+        "Categoria": "Exame laboratorial",
+        "Doença": null
+    },
+    "IMUNOGLOBULINA (IGE) - PESQUISA E/OU DOSAGEM": {
+        "Categoria": "Exame laboratorial",
+        "Doença": "Alergias"
+    },
+    "IMUNOGLOBULINA A, DOSAGEM NO LIQUOR": {
+        "Categoria": "Exame laboratorial",
+        "Doença": null
+    },
+    "INCISAO E DRENAGEM DE FLEGMAO": {
+        "Categoria": "Procedimento cirúrgico",
+        "Doença": "Flegmão"
+    },
+    "INDICE DE SATURACAO DE FERRO": {
+        "Categoria": "Exame laboratorial",
+        "Doença": null
+    },
+    "INDICE DE TIROXINA LIVRE (ITL)": {
+        "Categoria": "Exame laboratorial",
+        "Doença": null
+    },
+    "INFILTR DE PT GATILHO OU AGULHAM SECO (POR MUSC)": {
+        "Categoria": "Procedimento terapêutico",
+        "Doença": null
+    },
+    "INFILTRACAO INTRALESIONAL,CICAT/HEMANG-P/SESSAO": {
+        "Categoria": "Procedimento terapêutico",
+        "Doença": null
+    },
+    "INIBIDOR DE C1 ESTERASE - PESQUISA E/OU DOSAGEM": {
+        "Categoria": "Exame laboratorial",
+        "Doença": "Angioedema hereditário"
+    },
+    "INSERIDO VIA RELACIONAMENTO": {
+        "Categoria": "Procedimento administrativo",
+        "Doença": null
+    },
+    "INSULINA - PESQUISA E/OU DOSAGEM": {
+        "Categoria": "Exame laboratorial",
+        "Doença": null
+    },
+    "INSULINA LIVRE": {
+        "Categoria": "Exame laboratorial",
+        "Doença": null
+    },
+    "INVESTIGACAO ULTRASSONICA S/ REG GRAFICO (QQ AREA)": {
+        "Categoria": "Exame de imagem",
+        "Doença": null
+    },
+    "IRIDECTOMIA (LASER OU CIRURGICA)": {
+        "Categoria": "Procedimento oftalmológico",
+        "Doença": "Glaucoma"
+    },
+    "ISOENZIMAS DE CPK": {
+        "Categoria": "Exame laboratorial",
+        "Doença": null
+    },
+    "LACTOSE, TESTE DE TOLERANCIA": {
+        "Categoria": "Exame laboratorial",
+        "Doença": "Intolerância à lactose"
+    },
+    "LAMINECTOMIA POR SEG (ARACNOIDITE, ABSCESSO EPID)": {
+        "Categoria": "Procedimento cirúrgico",
+        "Doença": null
+    },
+    "LAMOTRIGINA - PESQUISA E/OU DOSAGEM": {
+        "Categoria": "Exame laboratorial",
+        "Doença": null
+    },
+    "LAP EXPL/BIOP, OU DREN ABSC, OU LIB BRID VIG OCL": {
+        "Categoria": "Procedimento cirúrgico",
+        "Doença": null
+    },
+    "LAPAROSCOPIA GINECO C/ OU S/ BIOP (INCL CROMOTUB)": {
+        "Categoria": "Procedimento cirúrgico",
+        "Doença": null
+    },
+    "LARINGO/TRAQUEOSCOPIA C/EXERESE POLIPO/NOD/PAPIL": {
+        "Categoria": "Procedimento cirúrgico",
+        "Doença": null
+    },
+    "LARINGO/TRAQUEOSCOPIA P/DIAG E BIOP C/AP FLEXIVEL": {
+        "Categoria": "Procedimento diagnóstico",
+        "Doença": null
+    },
+    "LARINGO/TRAQUEOSCOPIA P/DIAG E BIOP(TUBO RIGIDO)": {
+        "Categoria": "Procedimento diagnóstico",
+        "Doença": null
+    },
+    "LARINGOSCO/TRAQUEO C/ RET CORPO ESTRANHO(TUBO RIG)": {
+        "Categoria": "Procedimento cirúrgico",
+        "Doença": null
+    },
+    "LARVAS (FEZES), PESQUISA": {
+        "Categoria": "Exame laboratorial",
+        "Doença": "Parasitoses intestinais"
+    },
+    "LEPTINA - PESQUISA E/OU DOSAGEM": {
+        "Categoria": "Exame laboratorial",
+        "Doença": null
+    },
+    "LEPTOSPIROSE - IGG - PESQUISA E/OU DOSAGEM": {
+        "Categoria": "Exame laboratorial",
+        "Doença": "Leptospirose"
+    },
+    "LEPTOSPIROSE - IGM - PESQUISA E/OU DOSAGEM": {
+        "Categoria": "Exame laboratorial",
+        "Doença": "Leptospirose"
+    },
+    "LES LIGAMENT AGUD AO NIVEL DO TORNOZ - TRAT INCR": {
+        "Categoria": "Procedimento ortopédico",
+        "Doença": "Lesão ligamentar do tornozelo"
+    },
+    "LESAO LIGAMENTAR AGUDA - TRATAMENTO CONSERVADOR": {
+        "Categoria": "Procedimento ortopédico",
+        "Doença": "Lesão ligamentar"
+    },
+    "LESAO NERV PERIF SENSIT E/OU MOTORA(+ DE 1 NERVO)": {
+        "Categoria": "Procedimento cirúrgico",
+        "Doença": "Lesão de nervo periférico"
+    },
+    "LESOES LIGAMENTARES AGUDAS - TRATAMENTO INCRUENTO": {
+        "Categoria": "Procedimento ortopédico",
+        "Doença": "Lesões ligamentares"
+    },
+    "LESOES LIGAMENTARES PERIF CRONICAS - TRAT CIR": {
+        "Categoria": "Procedimento cirúrgico",
+        "Doença": "Lesões ligamentares crônicas"
+    },
+    "LESOES MUSCULO TENDINEAS - TRATAMENTO INCRUENTO": {
+        "Categoria": "Procedimento ortopédico",
+        "Doença": "Lesões musculotendinosas"
+    },
+    "LEUCOCITOS E HEMACIAS, PESQUISA NAS FEZES": {
+        "Categoria": "Exame laboratorial",
+        "Doença": null
+    },
+    "LIB LAP ADER PELV C/S RES CISTOS PERIT OU SALPING": {
+        "Categoria": "Cirurgia Ginecológica",
+        "Doença": "Aderências pélvicas"
+    },
+    "LIGAMENTO CRUZADO ANT OU POST - VIDEOARTR JOELHO": {
+        "Categoria": "Cirurgia Ortopédica",
+        "Doença": "Lesão de ligamento cruzado"
+    },
+    "LINF T \"HELPER\" CONT (IF C/ OKT-4) (CD-4+) CIT FLX": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": null
+    },
+    "LINFADENECTOMIA RETROPERITONEAL LAPAROSCOPICA": {
+        "Categoria": "Cirurgia Oncológica",
+        "Doença": null
+    },
+    "LINFOCITOS T SUPR CONT (IF C/ OKT-8) (D-8) CIT FLX": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": null
+    },
+    "LIPASE - PESQUISA E/OU DOSAGEM": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": null
+    },
+    "LIPIDIOS TOTAIS - PESQUISA E/OU DOSAGEM": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": null
+    },
+    "LIPIDOGRAMA (LIP TOT, COL, TG E ELETROF LIPOPROT)": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": null
+    },
+    "LIPOPROTEINA (A) - LP (A) - PESQUISA E/OU DOSAGEM": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": null
+    },
+    "LITIO - PESQUISA E/OU DOSAGEM": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": null
+    },
+    "LUVA": {
+        "Categoria": "Material Médico",
+        "Doença": null
+    },
+    "MACROPROLACTINA - PESQUISA E/OU DOSAGEM": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": null
+    },
+    "MAGNESIO - PESQUISA E/OU DOSAGEM": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": null
+    },
+    "MAMOGRAFIA CONVENCIONAL BILATERAL": {
+        "Categoria": "Exame de Imagem",
+        "Doença": null
+    },
+    "MAMOGRAFIA DIGITAL BILATERAL": {
+        "Categoria": "Exame de Imagem",
+        "Doença": null
+    },
+    "MAMOTOMIA POR ESTEREOTAXIA (NAO INCLUI O EXAME DE IMAGEM)": {
+        "Categoria": "Procedimento Diagnóstico",
+        "Doença": null
+    },
+    "MAMOTOMIA POR US (NAO INCLUI O EXAME DE IMAGEM)": {
+        "Categoria": "Procedimento Diagnóstico",
+        "Doença": null
+    },
+    "MANIPULACAO ARTICULAR SOB ANESTESIA GERAL": {
+        "Categoria": "Procedimento Ortopédico",
+        "Doença": null
+    },
+    "MANOMETRIA COMPUTADORIZADA ANORRETAL": {
+        "Categoria": "Exame Diagnóstico",
+        "Doença": null
+    },
+    "MANOMETRIA ESOFAG P/ LOCALIZ ESFINCT PRE-PH-METRIA": {
+        "Categoria": "Exame Diagnóstico",
+        "Doença": null
+    },
+    "MANOMETRIA ESOFAGICA COMPUT SEM TESTE PROVOCATIVO": {
+        "Categoria": "Exame Diagnóstico",
+        "Doença": null
+    },
+    "MAP FXS ANOM FOCOS ECTOP P/ EFISIOL INTRACAV C/ PV": {
+        "Categoria": "Exame Cardiológico",
+        "Doença": "Arritmia cardíaca"
+    },
+    "MAPEAMENTO ELETROANATOMIC": {
+        "Categoria": "Exame Cardiológico",
+        "Doença": "Arritmia cardíaca"
+    },
+    "MAPEAMENTO RETINA (OFTALMOSCOPIA INDIRETA) MONOC": {
+        "Categoria": "Exame Oftalmológico",
+        "Doença": null
+    },
+    "MARCACAO PRE-CIRURGICA POR NODULO POR US": {
+        "Categoria": "Procedimento Diagnóstico",
+        "Doença": null
+    },
+    "MARCADORES TUMORAIS (CA 19.9, CA 125, ETC.) CADA": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": null
+    },
+    "MATERIAL": {
+        "Categoria": "Material Médico",
+        "Doença": null
+    },
+    "MED OSSEA, ASPIR P/ MIELOGRAMA OU MICROBIOLOGICO": {
+        "Categoria": "Procedimento Diagnóstico",
+        "Doença": null
+    },
+    "MEDICAMENTOS": {
+        "Categoria": "Farmacêutico",
+        "Doença": null
+    },
+    "MEDIDA DA DIFUSAO DO MONOXIDO DE CARBONO": {
+        "Categoria": "Exame Pulmonar",
+        "Doença": null
+    },
+    "MEDIDA DE PICO DE FLUXO EXPIRATORIO": {
+        "Categoria": "Exame Pulmonar",
+        "Doença": null
+    },
+    "MENISCECTOMIA - 1 MENISCO - PROC VIDEOARTR JOELHO": {
+        "Categoria": "Cirurgia Ortopédica",
+        "Doença": "Lesão de menisco"
+    },
+    "MENISCORRAFIA - TRATAMENTO CIRURGICO": {
+        "Categoria": "Cirurgia Ortopédica",
+        "Doença": "Lesão de menisco"
+    },
+    "MET (AL AS CD CR MN HG NI ZN CO) OUT ABS ATOM - CD": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": null
+    },
+    "METANEFRINAS PLASMATICAS": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": null
+    },
+    "METANEFRINAS URINARIAS, DOSAGEM": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": null
+    },
+    "MICROALBUMINURIA": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": null
+    },
+    "MICROCIRURGIA PARA TUMORES INTRACRANIANOS": {
+        "Categoria": "Neurocirurgia",
+        "Doença": "Tumor intracraniano"
+    },
+    "MICRONEUROLISE INTRANEURAL OU INTRAFASCICULAR DE DOIS OU MAIS NERVOS": {
+        "Categoria": "Neurocirurgia",
+        "Doença": null
+    },
+    "MICRONEUROLISE MULTIPLAS": {
+        "Categoria": "Neurocirurgia",
+        "Doença": null
+    },
+    "MICROSCOPIA ESPECULAR DE CORNEA - MONOCULAR": {
+        "Categoria": "Exame Oftalmológico",
+        "Doença": null
+    },
+    "MIELOGRAMA": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": null
+    },
+    "MIOGLOBINA, PESQUISA E/OU DOSAGEM": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": null
+    },
+    "MIOMECTOMIA UTERINA": {
+        "Categoria": "Cirurgia Ginecológica",
+        "Doença": "Mioma uterino"
+    },
+    "MIOMECTOMIA UTERINA LAPAROSCOPICA": {
+        "Categoria": "Cirurgia Ginecológica",
+        "Doença": "Mioma uterino"
+    },
+    "MIOPATIAS": {
+        "Categoria": "Exame Neurológico",
+        "Doença": "Miopatia"
+    },
+    "MLPA (FAZ JUNTO METILACAO E MLPA)": {
+        "Categoria": "Exame Genético",
+        "Doença": null
+    },
+    "MONITORIZACAO AMB DA PRESSAO ART. - MAPA (24 HS)": {
+        "Categoria": "Exame Cardiológico",
+        "Doença": "Hipertensão arterial"
+    },
+    "MONITORIZACAO POR DOPPLER TRANSCRANIANO": {
+        "Categoria": "Exame Neurológico",
+        "Doença": null
+    },
+    "MONONUCL, SOROL (MONOTESTE OU PAUL-BUNNEL), CADA": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": "Mononucleose"
+    },
+    "MONONUCLEOSE, ANTIVCA (EBV) IGG": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": "Mononucleose"
+    },
+    "MONONUCLEOSE, ANTIVCA (EBV) IGM": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": "Mononucleose"
+    },
+    "MUCO-NASAL, PESQUISA DE EOSINOFILOS E MASTOCITOS": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": null
+    },
+    "MUCOPROTEINAS - PESQUISA E/OU DOSAGEM": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": null
+    },
+    "MUCOSECTOMIA": {
+        "Categoria": "Procedimento Endoscópico",
+        "Doença": null
+    },
+    "MYCOBACTERIA PCR - PESQUISA": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": null
+    },
+    "NASOFIBROLARINGOSCOPIA P/DIAG E/OU BIOPSIA": {
+        "Categoria": "Exame Otorrinolaringológico",
+        "Doença": null
+    },
+    "NAT / HBV - P/COMP HEMOTERAPICO - PESQ E/OU DOSAG": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": "Hepatite B"
+    },
+    "NAT/HCV P/COMP HEMOTERAPICO - PESQ E/OU DOSAGEM": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": "Hepatite C"
+    },
+    "NAT/HIV P/COMP HEMOTERAPICO - PESQ E/OU DOSAGEM": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": "HIV"
+    },
+    "NEFROLITOTRIPSIA EXTRACORPOREA - 1A SESSAO": {
+        "Categoria": "Procedimento Urológico",
+        "Doença": "Cálculo renal"
+    },
+    "OOFORECT LAPAROSCOP UNI/BIL OU OOFOROPL UNI/BIL": {
+        "Categoria": "Cirurgia Ginecológica",
+        "Doença": null
+    },
+    "OPME": {
+        "Categoria": "Material Médico",
+        "Doença": null
+    },
+    "ORQUIDOPEXIA UNILATERAL": {
+        "Categoria": "Cirurgia Urológica",
+        "Doença": "Criptorquidia"
+    },
+    "OSTEOCONDROPLASTIA - VIDEOARTROSC JOELHO": {
+        "Categoria": "Cirurgia Ortopédica",
+        "Doença": null
+    },
+    "OSTEOPLASTIA OU DISCECTOMIA PERCUTANEA (VERTEBROPLASTIA E OUTRAS)": {
+        "Categoria": "Cirurgia Ortopédica",
+        "Doença": null
+    },
+    "OSTEOTOM OU PSEUDARTR TARSO E MEDIO PE - TRAT CIR": {
+        "Categoria": "Cirurgia Ortopédica",
+        "Doença": null
+    },
+    "OSTEOTOMIA DE COLUNA VERTEBRAL - TRAT CIRURGICO": {
+        "Categoria": "Cirurgia Ortopédica",
+        "Doença": null
+    },
+    "OTOEMISSOES ACUSTICAS PRODUTO DE DISTORCAO": {
+        "Categoria": "Exame Otorrinolaringológico",
+        "Doença": null
+    },
+    "OTOEMISSOES EVOCADAS TRANSIENTES": {
+        "Categoria": "Exame Otorrinolaringológico",
+        "Doença": null
+    },
+    "OUTRAS AFECCOES DA COLUNA - TRATAMENTO INCRUENTO": {
+        "Categoria": "Tratamento Ortopédico",
+        "Doença": null
+    },
+    "OXIMETRIA NAO INVASIVA": {
+        "Categoria": "Exame Clínico",
+        "Doença": null
+    },
+    "P P ATENDIMENTO EM PRONTO SOCORRO ADULTO": {
+        "Categoria": "Atendimento de Emergência",
+        "Doença": null
+    },
+    "P P ATENDIMENTO PRONTO SOCORRO INFANTIL": {
+        "Categoria": "Atendimento de Emergência",
+        "Doença": null
+    },
+    "P P AV CIR 2OPIN CRANIO M": {
+        "Categoria": "Consulta Médica",
+        "Doença": null
+    },
+    "P P LIQUOR (PUNCAO+TX DESLOC+MAT) C/ EXAMES HOSP": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": null
+    },
+    "P P MONONUC ANTI VCA IGG/": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": "Mononucleose"
+    },
+    "P P OFTALMOLOGICO NOVAMED": {
+        "Categoria": "Exame Oftalmológico",
+        "Doença": null
+    },
+    "P P SEQ EXONS BRCA1/SEQ EXONS BRCA2(SEQ COMP+MLPA)": {
+        "Categoria": "Exame Genético",
+        "Doença": null
+    },
+    "P P US P/ MAPEAM TRANSVAGINAL C/ PREP INTEST HM+HP": {
+        "Categoria": "Exame de Imagem",
+        "Doença": null
+    },
+    "PACOTE (CONSULTA + NEBULIZACAO + ANTIEMETICO + ANTITERMICO) ATENDIMENTO PEDIATRICO DE URGENCIA": {
+        "Categoria": "Atendimento de Emergência",
+        "Doença": null
+    },
+    "PACOTE (HM + MAT + MED + TX) POLISSONOGRAFIA COM EEG DE NOITE INTEIRA": {
+        "Categoria": "Exame do Sono",
+        "Doença": null
+    },
+    "PACOTE (HM+MAT+MED+FILM+CONTRASTE+INSUMO) PET SCAN": {
+        "Categoria": "Exame de Imagem",
+        "Doença": null
+    },
+    "PACOTE (HM+TX+MAT+MED) URODINAMICA COMPLETA AMBULATORIAL": {
+        "Categoria": "Exame Urológico",
+        "Doença": null
+    },
+    "PACOTE (HM+TX+MAT+MED+DIU) IMPLANTE DIU HORMONAL": {
+        "Categoria": "Procedimento Ginecológico",
+        "Doença": null
+    },
+    "PACOTE (HP + HM) CIRURGIA REFRATIVA UNILATERAL - LASIK": {
+        "Categoria": "Cirurgia Oftalmológica",
+        "Doença": null
+    },
+    "PACOTE (HP + HM) CIRURGIA REFRATIVA UNILATERAL - PRK": {
+        "Categoria": "Cirurgia Oftalmológica",
+        "Doença": null
+    },
+    "PACOTE (HP + HM) COLPOSCOPIA": {
+        "Categoria": "Exame Ginecológico",
+        "Doença": null
+    },
+    "PACOTE (HP + HM) POLISSONOGRAFIA COM CPAP NASAL": {
+        "Categoria": "Exame do Sono",
+        "Doença": "Apneia do sono"
+    },
+    "PACOTE (HP + HM) PROVA DE FUNCAO PULMONAR COMPLETA (ESPIROMETRIA)": {
+        "Categoria": "Exame Pulmonar",
+        "Doença": null
+    },
+    "PACOTE (HP + HM) RCT-3, POR TRATAMENTO - BEXIGA": {
+        "Categoria": "Radioterapia",
+        "Doença": "Câncer de bexiga"
+    },
+    "PACOTE (HP + HM) TESTE DE LATENCIAS MULTIPLAS DE SONO": {
+        "Categoria": "Exame do Sono",
+        "Doença": null
+    },
+    "PACOTE (HP + HM) VIDEO COLONOSCOPIA DIAGNOSTICA": {
+        "Categoria": "Exame Endoscópico",
+        "Doença": null
+    },
+    "PACOTE (HP + HM) VIDEO EDA DIAGNOSTICA": {
+        "Categoria": "Exame Endoscópico",
+        "Doença": null
+    },
+    "PACOTE (HP + HM) VIDEO ENDOSCOPIA DIGESTIVA ALTA COM POLIPECTOMIAS": {
+        "Categoria": "Exame Endoscópico",
+        "Doença": null
+    },
+    "PACOTE (HP) CIRURGIA REFRATIVA UNIL - PRK/LASIK": {
+        "Categoria": "Cirurgia Oftalmológica",
+        "Doença": null
+    },
+    "PACOTE (HP+HM) POLISSONOGRAFIA DE NOITE INTEIRA - INCLUI POLISSONOGRAMAS": {
+        "Categoria": "Exame do Sono",
+        "Doença": null
+    },
+    "PACOTE (HP+HM) RADIOTERAPIA COM MODULACAO DA INTENSIDADE DE FEIXE - PROSTATA/BEXIGA": {
+        "Categoria": "Radioterapia",
+        "Doença": "Câncer de próstata/bexiga"
+    },
+    "PACOTE (MAT+MED+SCORE+HM) ANGIOTOMOGRAFIA CORONARIANA": {
+        "Categoria": "Exame de Imagem",
+        "Doença": null
+    },
+    "PACOTE (MAT+MED+TX) HISTEROSCOPIA DIAGNOSTICA POR VIDEO": {
+        "Categoria": "Exame Ginecológico",
+        "Doença": null
+    },
+    "PACOTE (MT/MD/TX + HM) TRATAMENTO OCULAR QUIMIOTERAPICO COM ANTIANGIOGENICO (LUCENTIS)": {
+        "Categoria": "Tratamento Oftalmológico",
+        "Doença": "Degeneração macular"
+    },
+    "PACOTE (MT/MD/TX/GT/AP + HM) ECOENDOSCOPIA DIAGNOSTICA (VIA ALTA OU BAIXA)": {
+        "Categoria": "Exame Endoscópico",
+        "Doença": null
+    },
+    "PACOTE (RESSONANCIA MAGNETICA)": {
+        "Categoria": "Exame de Imagem",
+        "Doença": null
+    },
+    "PACOTE - REMOCAO SIMPLES SEM MEDICO": {
+        "Categoria": "Transporte Médico",
+        "Doença": null
+    },
+    "PACOTE - REMOCAO UTI ADULTO": {
+        "Categoria": "Transporte Médico",
+        "Doença": null
+    },
+    "PACOTE - REMOCAO UTI NEONATAL / PEDIATRICA": {
+        "Categoria": "Transporte Médico",
+        "Doença": null
+    },
+    "PACOTE CIRURGIA ESTRABISMO - ANEST GERAL (HP)": {
+        "Categoria": "Cirurgia Oftalmológica",
+        "Doença": "Estrabismo"
+    },
+    "PACOTE DE HEMOTERAPIA - CONCENTRADO DE HEMACIAS": {
+        "Categoria": "Hemoterapia",
+        "Doença": null
+    },
+    "PACOTE DE HEMOTERAPIA - CONCENTRADO DE PLAQUETAS": {
+        "Categoria": "Hemoterapia",
+        "Doença": null
+    },
+    "PACOTE DE HEMOTERAPIA - SANGRIA TERAPEUTICA": {
+        "Categoria": "Hemoterapia",
+        "Doença": null
+    },
+    "PACOTE DERMATOSCOPIA DIGITAL ENTRE 51 E 100 LESOES": {
+        "Categoria": "Exame Dermatológico",
+        "Doença": null
+    },
+    "PACOTE FACECTOMIA POR FACOEMULS + LIO (HP)": {
+        "Categoria": "Cirurgia Oftalmológica",
+        "Doença": "Catarata"
+    },
+    "PACOTE VIDEO COLONOSCOP C/POLIPECTOM (HP+HM+ANEST)": {
+        "Categoria": "Exame Endoscópico",
+        "Doença": null
+    },
+    "PACOTE(HP+HM)POLISSON + EEG NOITE INTEIRA C/S CPAP": {
+        "Categoria": "Exame do Sono",
+        "Doença": null
+    },
+    "PACOTE(TX+GAS+MAT)OXIGENIOTERAPIA HIPERB P/SESSAO": {
+        "Categoria": "Tratamento Médico",
+        "Doença": null
+    },
+    "PAQUIMETRIA ULTRA-SONICA - MONOCULAR": {
+        "Categoria": "Exame Oftalmológico",
+        "Doença": null
+    },
+    "PARASITOLO, COLHEITA MULT C/ FORNEC DO LIQ CONSERV": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": null
+    },
+    "PARASITOLOGICO - NAS FEZES": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": null
+    },
+    "PARATORMONIO - PTH OU FRACAO (CADA)": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": null
+    },
+    "PARTO (VIA VAGINAL)": {
+        "Categoria": "Procedimento Obstétrico",
+        "Doença": null
+    },
+    "PARVOVIRUS - IGG, IGM (CADA)": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": "Parvovirose"
+    },
+    "PASSAGEM DE CATETER PERIDURAL OU SUBARACNOIDEO COM BLOQUEIO DE PROVA": {
+        "Categoria": "Procedimento Anestésico",
+        "Doença": null
+    },
+    "PATOLOG OSTEOMIOARTICULAR-DIFERENTES SEGM COLUNA": {
+        "Categoria": "Exame Ortopédico",
+        "Doença": null
+    },
+    "PATOLOGIA NEUROLOGICA C/DEPEND DE ATIV DIARIA": {
+        "Categoria": "Exame Neurológico",
+        "Doença": null
+    },
+    "PATOLOGIA OSTEOMIOARTICULAR - 1 SEGMENTO COLUNA": {
+        "Categoria": "Exame Ortopédico",
+        "Doença": null
+    },
+    "PATOLOGIA OSTEOMIOARTICULAR - 2 MAIS MEMBROS": {
+        "Categoria": "Ortopedia",
+        "Doença": "Doenças osteomioarticulares"
+    },
+    "PATOLOGIA OSTEOMIOARTICULAR EM UM MEMBRO": {
+        "Categoria": "Ortopedia",
+        "Doença": "Doenças osteomioarticulares"
+    },
+    "PATOLOGIA OSTEOMIOARTICULAR-DEPEND DE ATIV DIARIA": {
+        "Categoria": "Ortopedia",
+        "Doença": "Doenças osteomioarticulares"
+    },
+    "PCR EM TEMPO REAL P VIRUS RESPIRATORIO SINCICIAL": {
+        "Categoria": "Exame laboratorial",
+        "Doença": "Infecção por vírus sincicial respiratório"
+    },
+    "PCR EM TEMPO REAL PARA OS VIRUS PARA INFLUENZA E I": {
+        "Categoria": "Exame laboratorial",
+        "Doença": "Influenza"
+    },
+    "PCR EM TEMPO REAL PARA VIRUS INFLUENZA A E B": {
+        "Categoria": "Exame laboratorial",
+        "Doença": "Influenza"
+    },
+    "PCT (B) OFTLM CONSULTA, EXMS, MTRS E MEDICAMNETOS": {
+        "Categoria": "Consulta oftalmológica",
+        "Doença": null
+    },
+    "PCT (C)OFTM CST,EXM(EXT TMO COER OPTC),MTRS MEDIC ": {
+        "Categoria": "Consulta oftalmológica",
+        "Doença": null
+    },
+    "PCTE DCA NEURO-MUSC-ESQUELETICA-ENVOLV TEGUMENTAR": {
+        "Categoria": "Neurologia",
+        "Doença": "Doenças neuromusculoesqueléticas"
+    },
+    "PEPTIDEO C - PESQUISA E/OU DOSAGEM": {
+        "Categoria": "Exame laboratorial",
+        "Doença": "Diabetes"
+    },
+    "PEPTIDEO NATRIURETICO BNP/PROBNP": {
+        "Categoria": "Exame laboratorial",
+        "Doença": "Insuficiência cardíaca"
+    },
+    "PERFUSAO CEREBRAL POR RM": {
+        "Categoria": "Exame de imagem",
+        "Doença": null
+    },
+    "PESQ ANTICORPOS SERICO IRREG ANTIERITROC-GEL TESTE": {
+        "Categoria": "Exame laboratorial",
+        "Doença": "Doenças autoimunes"
+    },
+    "PESQ ANTICORPOS SERICOS IRREG ANTIERITROCITARIOS": {
+        "Categoria": "Exame laboratorial",
+        "Doença": "Doenças autoimunes"
+    },
+    "PESQUISA DE ANTIGENOS DE GIARDIA LAMBLIA": {
+        "Categoria": "Exame laboratorial",
+        "Doença": "Giardíase"
+    },
+    "PESQUISA DE MUTACAO DE ALELO ESPECIFICO POR PCR": {
+        "Categoria": "Exame genético",
+        "Doença": null
+    },
+    "PESQUISA DE OUTROS AGENTES POR PCR": {
+        "Categoria": "Exame laboratorial",
+        "Doença": null
+    },
+    "PESQUISA DO NISTAGMO OPTOCINETICO": {
+        "Categoria": "Exame oftalmológico",
+        "Doença": null
+    },
+    "PESQUISA OU DOSAGEM DE UM COMPONENTE URINARIO": {
+        "Categoria": "Exame laboratorial",
+        "Doença": null
+    },
+    "PESQUISA PARA GARDNERELLA": {
+        "Categoria": "Exame laboratorial",
+        "Doença": "Vaginose bacteriana"
+    },
+    "PESQUISA PARES CRANIANOS RELACIONAD C/ O VIII PAR": {
+        "Categoria": "Exame neurológico",
+        "Doença": null
+    },
+    "PESQUISA RAPIDA PARA INFLUENZA A E B": {
+        "Categoria": "Exame laboratorial",
+        "Doença": "Influenza"
+    },
+    "PESQUISA RAPIDA PARA VIRUS SINCICIAL RESPIRATORIO": {
+        "Categoria": "Exame laboratorial",
+        "Doença": "Infecção por vírus sincicial respiratório"
+    },
+    "PET DEDICADO ONCOLOGICO": {
+        "Categoria": "Exame de imagem",
+        "Doença": "Câncer"
+    },
+    "PEZINHO BAS (TSH N + PKU + ELETROF HB TRIAG HEMOP)": {
+        "Categoria": "Exame laboratorial",
+        "Doença": null
+    },
+    "PF REUM (AC UR, EL PROT, FAN, VHS, LATEX, W. ROSE)": {
+        "Categoria": "Exame laboratorial",
+        "Doença": "Doenças reumatológicas"
+    },
+    "PH - TORNASSOL - PESQUISA": {
+        "Categoria": "Exame laboratorial",
+        "Doença": null
+    },
+    "PH-METRIA ESOFAGICA COMPUTADORIZADA COM 2 CANAIS": {
+        "Categoria": "Exame diagnóstico",
+        "Doença": "Refluxo gastroesofágico"
+    },
+    "PLASTICA DO FREIO BALANO-PREPUCIAL": {
+        "Categoria": "Procedimento cirúrgico",
+        "Doença": null
+    },
+    "POLIPECT ESOFAGO,ESTOMAGO,DUOD(INDEP Nº POLIPOS)": {
+        "Categoria": "Procedimento cirúrgico",
+        "Doença": "Pólipos gastrointestinais"
+    },
+    "POLIPECTOMIA - UNILATERAL (NARIZ)": {
+        "Categoria": "Procedimento cirúrgico",
+        "Doença": "Pólipos nasais"
+    },
+    "POLIPECTOMIA COLON (INDEPENDENTE N DE POLIPOS)": {
+        "Categoria": "Procedimento cirúrgico",
+        "Doença": "Pólipos intestinais"
+    },
+    "POLISSONOGRAFIA NOITE INT (PSG) (INCLUI POLISSON)": {
+        "Categoria": "Exame diagnóstico",
+        "Doença": "Distúrbios do sono"
+    },
+    "POLISSONOGRAMA COM TESTE DE CPAP NASAL": {
+        "Categoria": "Exame diagnóstico",
+        "Doença": "Apneia do sono"
+    },
+    "POSTECTOMIA": {
+        "Categoria": "Procedimento cirúrgico",
+        "Doença": null
+    },
+    "POTASSIO - PESQUISA E/OU DOSAGEM": {
+        "Categoria": "Exame laboratorial",
+        "Doença": null
+    },
+    "POTENCIAL DE ACUIDADE VISUAL - MONOCULAR": {
+        "Categoria": "Exame oftalmológico",
+        "Doença": null
+    },
+    "POTENCIAL EVOCADO - P300": {
+        "Categoria": "Exame neurológico",
+        "Doença": null
+    },
+    "POTENCIAL EVOCADO AUDITIVO TRONCO CEREB (PEA-TC)": {
+        "Categoria": "Exame neurológico",
+        "Doença": null
+    },
+    "POTENCIAL EVOCADO SOMATO-SENSIT / MEMBR INF (PESS)": {
+        "Categoria": "Exame neurológico",
+        "Doença": null
+    },
+    "POTENCIAL EVOCADO VISUAL (PEV)": {
+        "Categoria": "Exame neurológico",
+        "Doença": null
+    },
+    "PP ASPIRACAO AURICULAR(HM-HIAE)": {
+        "Categoria": "Procedimento otorrinolaringológico",
+        "Doença": null
+    },
+    "PP ATEND EM PRONTO SOCORR": {
+        "Categoria": "Atendimento de emergência",
+        "Doença": null
+    },
+    "PP ATENDIMENTO EM PRONTO SOCORRO": {
+        "Categoria": "Atendimento de emergência",
+        "Doença": null
+    },
+    "PP ATENDIMENTO ESPECIAL NOVAMED": {
+        "Categoria": "Consulta médica",
+        "Doença": null
+    },
+    "PP BIOPSIA DE MAMA CORE BIOPSY POR US REDE+": {
+        "Categoria": "Procedimento diagnóstico",
+        "Doença": null
+    },
+    "PP COL C/S BX, C/S RET, C/S POL IND DO N DE POL-R+": {
+        "Categoria": "Procedimento diagnóstico",
+        "Doença": null
+    },
+    "PP COLOC URETER DE DUPLO J UNIL (HM-HIAE)": {
+        "Categoria": "Procedimento urológico",
+        "Doença": null
+    },
+    "PP DE VISCOSSUPLEMENTACAO P/ ARTIC E UNILATERAL": {
+        "Categoria": "Procedimento ortopédico",
+        "Doença": "Osteoartrite"
+    },
+    "PP DENSITOMETRIA OSSEA I C/ AUTOR PREVIA -R+": {
+        "Categoria": "Exame de imagem",
+        "Doença": "Osteoporose"
+    },
+    "PP DENSITOMETRIA OSSEA II S/ AUTOR PREVIA -R+": {
+        "Categoria": "Exame de imagem",
+        "Doença": "Osteoporose"
+    },
+    "PP DOPPLER I COM AUTORIZACAO PREVIA": {
+        "Categoria": "Exame de imagem",
+        "Doença": null
+    },
+    "PP EDA C/S BX, C/S T URE, C/S POL IN DO N DE P -R+": {
+        "Categoria": "Procedimento diagnóstico",
+        "Doença": null
+    },
+    "PP ELETRC LES PELE MUC C/S CUR(GRU 5 LES)(HM-HIAE)": {
+        "Categoria": "Procedimento dermatológico",
+        "Doença": null
+    },
+    "PP EXAMES CARDIOLOGICOS I C/AUTORIZ PREVIA -R+": {
+        "Categoria": "Exame cardiológico",
+        "Doença": null
+    },
+    "PP EXAMES CARDIOLOGICOS II S/ AUTOR PREVIA -R+": {
+        "Categoria": "Exame cardiológico",
+        "Doença": null
+    },
+    "PP EXAMES DE GASTRO I SEM AUTORIZAO PREVIA": {
+        "Categoria": "Exame gastroenterológico",
+        "Doença": null
+    },
+    "PP EXAMES DE GASTRO II COM AUTORIZACAO PREVIA": {
+        "Categoria": "Exame gastroenterológico",
+        "Doença": null
+    },
+    "PP GINECOLOGIA DIAGNOSTICA - REDE+": {
+        "Categoria": "Exame ginecológico",
+        "Doença": null
+    },
+    "PP HERPES SIMPLES - IGG - PESQUISA E/OU DOSAGEM": {
+        "Categoria": "Exame laboratorial",
+        "Doença": "Herpes simples"
+    },
+    "PP HERPES SIMPLES - IGM - PESQUISA E/OU DOSAGEM": {
+        "Categoria": "Exame laboratorial",
+        "Doença": "Herpes simples"
+    },
+    "PP HISTEROSSALPINGOGRAFIA REDE+": {
+        "Categoria": "Exame de imagem",
+        "Doença": null
+    },
+    "PP MAMOGRAFIA I C/ AUTOR PREVIA -R+": {
+        "Categoria": "Exame de imagem",
+        "Doença": null
+    },
+    "PP MAMOGRAFIA II COM AUTORIZACAO PREVIA": {
+        "Categoria": "Exame de imagem",
+        "Doença": null
+    },
+    "PP MAMOGRAFIA II SEM AUTORIZACAO PREVIA - REDE+": {
+        "Categoria": "Exame de imagem",
+        "Doença": null
+    },
+    "PP MODELO D OFTALMO CONSULTA, EXAMES, MAT E MED": {
+        "Categoria": "Consulta oftalmológica",
+        "Doença": null
+    },
+    "PP MUSICOTERAPIA - TEA E OUT TRANST GLOB DO DESENV": {
+        "Categoria": "Terapia complementar",
+        "Doença": "Transtorno do Espectro Autista"
+    },
+    "PP PUNCAO ASPIRATIVA DE TIREOIDE REDE+": {
+        "Categoria": "Procedimento diagnóstico",
+        "Doença": null
+    },
+    "PP RESSONANCIA MAGNETICA": {
+        "Categoria": "Exame de imagem",
+        "Doença": null
+    },
+    "PP RX - ADENOIDES OU CAVUM - FLEURY": {
+        "Categoria": "Exame de imagem",
+        "Doença": null
+    },
+    "PP TISIOPNEUMOLOGIA II S/ AUTORIZACAO PREVIA -R+": {
+        "Categoria": "Exame pneumológico",
+        "Doença": null
+    },
+    "PP TOMOGRAFIA COMP DIAGNOSTICA REDE DOR REDE+": {
+        "Categoria": "Exame de imagem",
+        "Doença": null
+    },
+    "PP TOMOGRAFIA COMPUTADORI": {
+        "Categoria": "Exame de imagem",
+        "Doença": null
+    },
+    "PP TOMOGRAFIA COMPUTADORIZADA - REDE+": {
+        "Categoria": "Exame de imagem",
+        "Doença": null
+    },
+    "PP TOMOGRAFIA COMPUTADORIZADA DIAGNOSTICA - REDE+": {
+        "Categoria": "Exame de imagem",
+        "Doença": null
+    },
+    "PP ULTRASSONOGRAFIA - FETAL I S/ AUTORIZ PREVIA": {
+        "Categoria": "Exame de imagem",
+        "Doença": null
+    },
+    "PP ULTRASSONOGRAFIA - FETAL II C/ AUTORIZ PREVIA": {
+        "Categoria": "Exame de imagem",
+        "Doença": null
+    },
+    "PP ULTRASSONOGRAFIA I COM AUTORIZACAO PREVIA -R+": {
+        "Categoria": "Exame de imagem",
+        "Doença": null
+    },
+    "PP ULTRASSONOGRAFIA I SEM AUTORIZACAO PREVIA": {
+        "Categoria": "Exame de imagem",
+        "Doença": null
+    },
+    "PP ULTRASSONOGRAFIA II SEM AUTORIZACAO PREVIA -R+": {
+        "Categoria": "Exame de imagem",
+        "Doença": null
+    },
+    "PP VARICELA, IGM - PESQUISA E/OU DOSAGEM": {
+        "Categoria": "Exame laboratorial",
+        "Doença": "Varicela"
+    },
+    "PP VISCOSSUPLEMENTACAO P/ ART E UNILATERAL AMB": {
+        "Categoria": "Procedimento ortopédico",
+        "Doença": "Osteoartrite"
+    },
+    "PR P AVAL NEUROPSICOLOGA SUBSEQUENTE (ATE 6SESSOES": {
+        "Categoria": "Avaliação neuropsicológica",
+        "Doença": null
+    },
+    "PR PAD (HP + HM) IMPLANTE INTRAVITREO (OZURDEX)": {
+        "Categoria": "Procedimento oftalmológico",
+        "Doença": null
+    },
+    "PR PAD AVALIACAO NEUROPSICOLOGICA INICIAL": {
+        "Categoria": "Avaliação neuropsicológica",
+        "Doença": null
+    },
+    "PR PAD CARIOTIPO": {
+        "Categoria": "Exame genético",
+        "Doença": null
+    },
+    "PR PAD REAVALIACAO MEDICA": {
+        "Categoria": "Consulta médica",
+        "Doença": null
+    },
+    "PROC DIAG BIOP SIMPLES \"IMPRINT\" E \"CELL BLOCK\"": {
+        "Categoria": "Procedimento diagnóstico",
+        "Doença": null
+    },
+    "PROC DIAG CITOPAT ONCOT DE LIQ E RASPADOS CUTANEOS": {
+        "Categoria": "Procedimento diagnóstico",
+        "Doença": null
+    },
+    "PROC DIAG EM CITOLOGIA HORMONAL ISOLADA": {
+        "Categoria": "Procedimento diagnóstico",
+        "Doença": null
+    },
+    "PROC DIAG EM PAINEL DE HIBRIDIZACAO \"IN SITU\"": {
+        "Categoria": "Procedimento diagnóstico",
+        "Doença": null
+    },
+    "PROC DIAG EM PAINEL DE IMUNOISTOQ( 2 A 5 REACOES)": {
+        "Categoria": "Procedimento diagnóstico",
+        "Doença": null
+    },
+    "PROC DIAG EM PECA ANATOMICA OU CIRURGICA SIMPLES": {
+        "Categoria": "Procedimento diagnóstico",
+        "Doença": null
+    },
+    "PROC DIAG FRAG MULTI DE BIOP/ORGAO OU TOPOG - 1FR": {
+        "Categoria": "Procedimento diagnóstico",
+        "Doença": null
+    },
+    "PROC DIAG LINF, ESTR, MARG ANAT SIMPL/COMPL MAX 3": {
+        "Categoria": "Procedimento diagnóstico",
+        "Doença": null
+    },
+    "PROC DIAG PEROP C/DESLOCAMENTO DO PATOLOGISTA": {
+        "Categoria": "Procedimento diagnóstico",
+        "Doença": null
+    },
+    "PROC DIAG PEROP S/DESLOCAMENTO DO PATOLOGISTA": {
+        "Categoria": "Procedimento diagnóstico",
+        "Doença": null
+    },
+    "PROC DIAG REVISAO LAM OU CORTES HISTOLOG SERIADOS": {
+        "Categoria": "Procedimento diagnóstico",
+        "Doença": null
+    },
+    "PROCED DIAG EM CITOPATOLOGIA CERVICO-VAG ONCOTICA": {
+        "Categoria": "Procedimento diagnóstico",
+        "Doença": null
+    },
+    "PROCED DIAGNOSTICO CITOPATOLOGICO EM MEIO LIQUIDO": {
+        "Categoria": "Procedimento diagnóstico",
+        "Doença": null
+    },
+    "PROCEDIMENTO DIAGNOSTICO EM CITOLOGIA HORM SERIADO": {
+        "Categoria": "Procedimento diagnóstico",
+        "Doença": null
+    },
+    "PROCEDIMENTO DIAGNOSTICO EM LAMINAS DE PAAF ATE 5": {
+        "Categoria": "Procedimento diagnóstico",
+        "Doença": null
+    },
+    "PROCEDIMENTO DIAGNOSTICO POR CAPTURA HIBRIDA": {
+        "Categoria": "Procedimento diagnóstico",
+        "Doença": null
+    },
+    "PROCEDIMENTO PADRONIZADO ANGIO-RM": {
+        "Categoria": "Exame de imagem",
+        "Doença": null
+    },
+    "PROCEDIMENTO PADRONIZADO ANGIO-TC": {
+        "Categoria": "Exame de imagem",
+        "Doença": null
+    },
+    "PROCEDIMENTO PADRONIZADO AUDIOMETRIA - REDE+": {
+        "Categoria": "Exame audiológico",
+        "Doença": null
+    },
+    "PROCEDIMENTO PADRONIZADO COVID-19": {
+        "Categoria": "Exame laboratorial",
+        "Doença": "COVID-19"
+    },
+    "PROCEDIMENTO PADRONIZADO DOPPLER - REDE+": {
+        "Categoria": "Exame de imagem",
+        "Doença": null
+    },
+    "PROCEDIMENTO PADRONIZADO ECODOPPLER": {
+        "Categoria": "Exame de imagem",
+        "Doença": null
+    },
+    "PROCEDIMENTO PADRONIZADO ECODOPPLER - REDE+": {
+        "Categoria": "Exame de imagem",
+        "Doença": null
+    },
+    "PROCEDIMENTO PADRONIZADO ELETROCARDIOGRAMA": {
+        "Categoria": "Exame cardiológico",
+        "Doença": null
+    },
+    "PROCEDIMENTO PADRONIZADO ELETROFISIO - REDE+": {
+        "Categoria": "Exame cardiológico",
+        "Doença": null
+    },
+    "PROCEDIMENTO PADRONIZADO ERGOMETRICO": {
+        "Categoria": "Exame cardiológico",
+        "Doença": null
+    },
+    "PROCEDIMENTO PADRONIZADO EXAMES GINECOLOGICOS": {
+        "Categoria": "Exame ginecológico",
+        "Doença": null
+    },
+    "PROCEDIMENTO PADRONIZADO EXAMES UROLOGICOS": {
+        "Categoria": "Exame urológico",
+        "Doença": null
+    },
+    "PROCEDIMENTO PADRONIZADO HOLTER 24 HORAS": {
+        "Categoria": "Exame cardiológico",
+        "Doença": null
+    },
+    "PROCEDIMENTO PADRONIZADO MAPA": {
+        "Categoria": "Exame cardiológico",
+        "Doença": null
+    },
+    "PROCEDIMENTO PADRONIZADO MEDICINA NUCLEAR": {
+        "Categoria": "Exame de imagem",
+        "Doença": null
+    },
+    "PROCEDIMENTO PADRONIZADO MEDICINA NUCLEAR - REDE+": {
+        "Categoria": "Exame de imagem",
+        "Doença": null
+    },
+    "PROCEDIMENTO PADRONIZADO PRONTO SOCORRO PEDIATRICO": {
+        "Categoria": "Atendimento de emergência",
+        "Doença": null
+    },
+    "PROCEDIMENTO PADRONIZADO PSICOPEDAGOGIA": {
+        "Categoria": "Avaliação psicopedagógica",
+        "Doença": null
+    },
+    "PROCEDIMENTO PADRONIZADO RADIOLOGIA - REDE+": {
+        "Categoria": "Exame de imagem",
+        "Doença": null
+    },
+    "PROCEDIMENTO PADRONIZADO RAIO-X": {
+        "Categoria": "Exame de imagem",
+        "Doença": null
+    },
+    "PROCEDIMENTO PADRONIZADO RESSONANCIA 1": {
+        "Categoria": "Exame de imagem",
+        "Doença": null
+    },
+    "PROCEDIMENTO PADRONIZADO RESSONANCIA 2": {
+        "Categoria": "Exame de imagem",
+        "Doença": null
+    },
+    "PROCEDIMENTO PADRONIZADO TOMOGRAFIA 1": {
+        "Categoria": "Exame de Imagem",
+        "Doença": null
+    },
+    "PROCEDIMENTO PADRONIZADO TOMOGRAFIA 2": {
+        "Categoria": "Exame de Imagem",
+        "Doença": null
+    },
+    "PROCESSAMENTO AUDITIVO CENTRAL (A PARTIR DOS 7 ANOSE ADULTO)": {
+        "Categoria": "Exame Audiológico",
+        "Doença": "Distúrbios do Processamento Auditivo Central"
+    },
+    "PROCESSOS INFLAMATORIOS PELVICOS": {
+        "Categoria": "Tratamento Ginecológico",
+        "Doença": "Doença Inflamatória Pélvica"
+    },
+    "PROGESTERONA - PESQUISA E/OU DOSAGEM": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": null
+    },
+    "PROGRAMACAO MARCA PASSO-DR PACHON": {
+        "Categoria": "Procedimento Cardiológico",
+        "Doença": "Arritmias Cardíacas"
+    },
+    "PROLACTINA - PESQUISA E/OU DOSAGEM": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": null
+    },
+    "PROSTATAVESICULECTOMIA RADICAL LAPAROSCOPICA": {
+        "Categoria": "Cirurgia Urológica",
+        "Doença": "Câncer de Próstata"
+    },
+    "PROTEINA C - PESQUISA E/OU DOSAGEM": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": null
+    },
+    "PROTEINA C REATIVA, QUALITATIVA - PESQUISA": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": null
+    },
+    "PROTEINA C REATIVA, QUANTITATIVA": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": null
+    },
+    "PROTEINA S LIVRE, DOSAGEM": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": null
+    },
+    "PROTEINA S TOTAL + LIVRE, DOSAGEM": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": null
+    },
+    "PROTEINA S, TESTE FUNCIONAL": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": null
+    },
+    "PROTEINAS DE BENCE JONES, PESQUISA - NA URINA": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": "Mieloma Múltiplo"
+    },
+    "PROTEINAS TOTAIS - PESQUISA E/OU DOSAGEM": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": null
+    },
+    "PROTEINAS TOTAIS ALBUMINA E GLOBULINA": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": null
+    },
+    "PROTROMBINA, PESQUISA DE MUTACAO": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": "Trombofilia"
+    },
+    "PROVA DE COMPATIBILIDADE PRE-TRANSFUSIONAL COMPL": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": null
+    },
+    "PROVA DE CONCENTRACAO (FISHBERG OU VOLHARD)": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": null
+    },
+    "PROVA FUNCAO PULMONAR COMPLETA (OU ESPIROMETRIA)": {
+        "Categoria": "Exame Respiratório",
+        "Doença": null
+    },
+    "PROVA TRH-TSH, DOSAG TSH S/ FORNECIM MATER (CADA)": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": "Disfunções da Tireoide"
+    },
+    "PROVAS DE FUNCAO TUBARIA": {
+        "Categoria": "Exame Otorrinolaringológico",
+        "Doença": null
+    },
+    "PROVAS FUNCAO TIREOIDEANA (T3, T4, INDICES E TSH)": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": "Disfunções da Tireoide"
+    },
+    "PROVAS IMUNO-ALERGICAS PARA BACT (POR ANTIGENO)": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": "Alergias"
+    },
+    "PROVAS IMUNO-ALERGICAS PARA FUNGOS (POR ANTIGENO)": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": "Alergias"
+    },
+    "PSEUDARTROSES E/OU OSTEOTOMIAS - TRAT CIRURGICO": {
+        "Categoria": "Cirurgia Ortopédica",
+        "Doença": "Pseudartrose"
+    },
+    "PTH - PESQUISA E/OU DOSAGEM": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": null
+    },
+    "PTOSE PALPEBRAL - CORRECAO CIRURGICA - UNILATERAL": {
+        "Categoria": "Cirurgia Oftalmológica",
+        "Doença": "Ptose Palpebral"
+    },
+    "PUNC EXTRA-ART DIAG OU TERAP(INFILT)-P/IMAG OU NAO": {
+        "Categoria": "Procedimento Diagnóstico/Terapêutico",
+        "Doença": null
+    },
+    "PUNCAO ART DIAG OU TERAP(INFILTR)-P/IMAGEM OU NAO": {
+        "Categoria": "Procedimento Diagnóstico/Terapêutico",
+        "Doença": null
+    },
+    "PUNCAO BIOPSIA/ASPIRATIVA DE ORGAO OU ESTRUTURA ORIENTADA POR TC (NAO INCLUI O EXAME DE BASE)": {
+        "Categoria": "Procedimento Diagnóstico",
+        "Doença": null
+    },
+    "PUNCAO BIOPSIA/ASPIRATIVA DE ORGAO OU ESTRUTURA ORIENTADA POR US (NAO INCLUI O EXAME DE BASE)": {
+        "Categoria": "Procedimento Diagnóstico",
+        "Doença": null
+    },
+    "PUNCAO LOMBAR C/ MANOMETR P/ COLETA DE LIQ CEFALOR": {
+        "Categoria": "Procedimento Diagnóstico",
+        "Doença": null
+    },
+    "PUNCAO OU BIOPSIA MAMARIA PERCUTANEA POR AGULHA FINA ORIENTADA POR US (NAO INCLUI O EXAME DE BASE)": {
+        "Categoria": "Procedimento Diagnóstico",
+        "Doença": null
+    },
+    "QUANTIFICACAO DE OUTROS AGENTES POR PCR": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": null
+    },
+    "RADIOSCOPIA P/ ACOMP PROCED CIR (POR H OU FRACAO)": {
+        "Categoria": "Exame de Imagem",
+        "Doença": null
+    },
+    "RAST DE EXON MUTADO P/ IDENT DE FRAGMENTO MUTADO": {
+        "Categoria": "Exame Genético",
+        "Doença": null
+    },
+    "REABILITACAO PERINEAL COM BIOFEEDBACK": {
+        "Categoria": "Fisioterapia",
+        "Doença": null
+    },
+    "REC POS-OP/POS-IMOB OSTEOMIOART C/COMP NEUROVASC-": {
+        "Categoria": "Reabilitação",
+        "Doença": null
+    },
+    "REC POS-OP/POS-IMOB OSTEOMIOART C/COMP NEUROVASC-1": {
+        "Categoria": "Reabilitação",
+        "Doença": null
+    },
+    "RECONSULTA": {
+        "Categoria": "Consulta Médica",
+        "Doença": null
+    },
+    "RECUPERACAO FUNCIONAL DISTURBIOS CRANIO-FACIAIS": {
+        "Categoria": "Reabilitação",
+        "Doença": "Distúrbios Craniofaciais"
+    },
+    "REEMBOLSO ESPECIAL VACINAS": {
+        "Categoria": "Procedimento Administrativo",
+        "Doença": null
+    },
+    "REFLEXO CUTANEO-SIMPATICO": {
+        "Categoria": "Exame Neurológico",
+        "Doença": null
+    },
+    "REFLUXO GAST TTO CIR (HERNIA DE HIATO) POR VIDEO": {
+        "Categoria": "Cirurgia Gastroenterológica",
+        "Doença": "Refluxo Gastroesofágico"
+    },
+    "REG VENTILAT-2)DETERMINACAO PRESSAO DE OCLUSAO": {
+        "Categoria": "Exame Respiratório",
+        "Doença": null
+    },
+    "REGISTRO DO NISTAGMO PENDULAR": {
+        "Categoria": "Exame Oftalmológico",
+        "Doença": null
+    },
+    "REIMPL URETERO-VESICAL UNILATERAL - VIA COMBINADA": {
+        "Categoria": "Cirurgia Urológica",
+        "Doença": null
+    },
+    "RENINA - PESQUISA E/OU DOSAGEM": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": null
+    },
+    "RENOGRAMA": {
+        "Categoria": "Exame de Imagem",
+        "Doença": null
+    },
+    "REPARO OU SUTURA 1 MENISCO - PROC VIDEOARTR JOELHO": {
+        "Categoria": "Cirurgia Ortopédica",
+        "Doença": "Lesão de Menisco"
+    },
+    "RESERVA ALCALINA (BICARBONATO)": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": null
+    },
+    "RESISTENCIA DAS VIAS AEREAS POR PLETISMOGRAFIA": {
+        "Categoria": "Exame Respiratório",
+        "Doença": null
+    },
+    "RESISTENCIA GLOBULAR, CURVA DE": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": null
+    },
+    "RESSEC PARCIAL OU TOTAL DE CLAVICULA - TRAT CIR": {
+        "Categoria": "Cirurgia Ortopédica",
+        "Doença": null
+    },
+    "RET CIR DE CAT LONGA PERM P/ NPP, QT OU P/ HEMODEP": {
+        "Categoria": "Procedimento Cirúrgico",
+        "Doença": null
+    },
+    "RETARDO DO DESENVOLVIMENTO PSICOMOTOR": {
+        "Categoria": "Avaliação Pediátrica",
+        "Doença": "Atraso no Desenvolvimento"
+    },
+    "RETICULOCITOS, CONTAGEM": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": null
+    },
+    "RETINOGRAFIA (SO HONORARIO) MONOCULAR": {
+        "Categoria": "Exame Oftalmológico",
+        "Doença": null
+    },
+    "RETIRADA DE CORPO ESTRANHO - TRATAMENTO CIRURGICO": {
+        "Categoria": "Procedimento Cirúrgico",
+        "Doença": null
+    },
+    "RETIRADA DE CORPO ESTRANHO SUBCUTANEO": {
+        "Categoria": "Procedimento Cirúrgico",
+        "Doença": null
+    },
+    "RETIRADA DE ENXERTO OSSEO": {
+        "Categoria": "Procedimento Cirúrgico",
+        "Doença": null
+    },
+    "RETOSSIGMOIDECTOMIA ABDOMINAL P/ VIDEOLAPAROSCOPIA": {
+        "Categoria": "Cirurgia Gastroenterológica",
+        "Doença": null
+    },
+    "RETOSSIGMOIDOSCOPIA FLEXIVEL": {
+        "Categoria": "Exame Endoscópico",
+        "Doença": null
+    },
+    "RETOSSIGMOIDOSCOPIA FLEXIVEL COM POLIPECTOMIA": {
+        "Categoria": "Exame Endoscópico",
+        "Doença": null
+    },
+    "RETOSSIGMOIDOSCOPIA RIGIDA": {
+        "Categoria": "Exame Endoscópico",
+        "Doença": null
+    },
+    "RINOSSEPTOPLASTIA FUNCIONAL": {
+        "Categoria": "Cirurgia Otorrinolaringológica",
+        "Doença": "Desvio de Septo"
+    },
+    "RM - ABDOME SUPERIOR": {
+        "Categoria": "Exame de Imagem",
+        "Doença": null
+    },
+    "RM - ARTICULACAO TEMPOROMANDIBULAR (BILATERAL)": {
+        "Categoria": "Exame de Imagem",
+        "Doença": null
+    },
+    "RM - ARTICULAR (POR ARTICULACAO)": {
+        "Categoria": "Exame de Imagem",
+        "Doença": null
+    },
+    "RM - BACIA (ARTICULACOES SACROILIACAS)": {
+        "Categoria": "Exame de Imagem",
+        "Doença": null
+    },
+    "RM - COLUNA CERVICAL OU DORSAL OU LOMBAR": {
+        "Categoria": "Exame de Imagem",
+        "Doença": null
+    },
+    "RM - CRANIO (ENCEFALO)": {
+        "Categoria": "Exame de Imagem",
+        "Doença": null
+    },
+    "RM - FACE (INCLUI SEIOS DA FACE)": {
+        "Categoria": "Exame de Imagem",
+        "Doença": null
+    },
+    "RM - MAMA (BILATERAL)": {
+        "Categoria": "Exame de Imagem",
+        "Doença": null
+    },
+    "RM - MAO (NAO INCLUI PUNHO)": {
+        "Categoria": "Exame de Imagem",
+        "Doença": null
+    },
+    "RM - MEMBRO SUP UNILAT (NAO INCLUI MAO E ARTICUL)": {
+        "Categoria": "Exame de Imagem",
+        "Doença": null
+    },
+    "RM - OSSOS TEMPORAIS BILATERAL": {
+        "Categoria": "Exame de Imagem",
+        "Doença": null
+    },
+    "RM - PE (ANTEPE) - NAO INCLUI TORNOZELO": {
+        "Categoria": "Exame de Imagem",
+        "Doença": null
+    },
+    "RM - PELVE (NAO INCLUI ARTICULACOES COXOFEMORAIS)": {
+        "Categoria": "Exame de Imagem",
+        "Doença": null
+    },
+    "RM - PERNA (UNILATERAL)": {
+        "Categoria": "Exame de Imagem",
+        "Doença": null
+    },
+    "RM - PESCOCO": {
+        "Categoria": "Exame de Imagem",
+        "Doença": null
+    },
+    "RM - SELA TURCICA (HIPOFISE)": {
+        "Categoria": "Exame de Imagem",
+        "Doença": null
+    },
+    "ROTAVIRUS, PESQUISA, ELISA": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": "Rotavirose"
+    },
+    "ROTINA URINA (CARACT FIS, ELEM ANORM, SEDIMENTOSC)": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": null
+    },
+    "RPG": {
+        "Categoria": "Fisioterapia",
+        "Doença": null
+    },
+    "RUBEOLA - IGG - PESQUISA E/OU DOSAGEM": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": "Rubéola"
+    },
+    "RUBEOLA - IGM - PESQUISA E/OU DOSAGEM": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": "Rubéola"
+    },
+    "RUPTURA MANGUITO ROTADOR - PROC VIDEOARTR OMBRO": {
+        "Categoria": "Cirurgia Ortopédica",
+        "Doença": "Ruptura do Manguito Rotador"
+    },
+    "RX - ABDOME AGUDO": {
+        "Categoria": "Exame de Imagem",
+        "Doença": null
+    },
+    "RX - ABDOME SIMPLES": {
+        "Categoria": "Exame de Imagem",
+        "Doença": null
+    },
+    "RX - ADENOIDES OU CAVUM": {
+        "Categoria": "Exame de Imagem",
+        "Doença": null
+    },
+    "RX - ANTEBRACO": {
+        "Categoria": "Exame de Imagem",
+        "Doença": null
+    },
+    "RX - ARTICULACAO ACROMIOCLAVICULAR": {
+        "Categoria": "Exame de Imagem",
+        "Doença": null
+    },
+    "RX - ARTICULACAO COXOFEMORAL (QUADRIL)": {
+        "Categoria": "Exame de Imagem",
+        "Doença": null
+    },
+    "RX - ARTICULACAO ESCAPULOUMERAL (OMBRO)": {
+        "Categoria": "Exame de Imagem",
+        "Doença": null
+    },
+    "RX - ARTICULACAO TIBIOTARSICA (TORNOZELO)": {
+        "Categoria": "Exame de Imagem",
+        "Doença": null
+    },
+    "RX - ARTICULACOES SACROILIACAS": {
+        "Categoria": "Exame de Imagem",
+        "Doença": null
+    },
+    "RX - AVALIACAO DE FRATURAS VERTEBRAIS POR DXA": {
+        "Categoria": "Exame de Imagem",
+        "Doença": "Osteoporose"
+    },
+    "RX - BACIA": {
+        "Categoria": "Exame de Imagem",
+        "Doença": null
+    },
+    "RX - BRACO": {
+        "Categoria": "Exame de Imagem",
+        "Doença": null
+    },
+    "RX - CALCANEO": {
+        "Categoria": "Exame de Imagem",
+        "Doença": null
+    },
+    "RX - CLAVICULA": {
+        "Categoria": "Exame de Imagem",
+        "Doença": null
+    },
+    "RX - COL TOTAL PARA ESCOLIOSE (TELESPONDILOGRAFIA)": {
+        "Categoria": "Exame de Imagem",
+        "Doença": "Escoliose"
+    },
+    "RX - COLUNA CERVICAL - 3 INCIDENCIAS": {
+        "Categoria": "Exame de Imagem",
+        "Doença": null
+    },
+    "RX - COLUNA CERVICAL - 5 INCIDENCIAS": {
+        "Categoria": "Exame de Imagem",
+        "Doença": null
+    },
+    "RX - COLUNA DORSAL - 2 INCIDENCIAS": {
+        "Categoria": "Exame de Imagem",
+        "Doença": null
+    },
+    "RX - COLUNA DORSAL - 4 INCIDENCIAS": {
+        "Categoria": "Exame de Imagem",
+        "Doença": null
+    },
+    "RX - COLUNA DORSO-LOMBAR PARA ESCOLIOSE": {
+        "Categoria": "Exame de Imagem",
+        "Doença": "Escoliose"
+    },
+    "RX - COLUNA LOMBO-SACRA - 3 INCIDENCIAS": {
+        "Categoria": "Exame de Imagem",
+        "Doença": null
+    },
+    "RX - COLUNA LOMBO-SACRA - 5 INCIDENCIAS": {
+        "Categoria": "Exame de Imagem",
+        "Doença": null
+    },
+    "RX - COSTELAS - POR HEMITORAX": {
+        "Categoria": "Exame de Imagem",
+        "Doença": null
+    },
+    "RX - COTOVELO": {
+        "Categoria": "Exame de Imagem",
+        "Doença": null
+    },
+    "RX - COXA": {
+        "Categoria": "Exame de Imagem",
+        "Doença": null
+    },
+    "RX - CRANIO - 2 INCIDENCIAS": {
+        "Categoria": "Exame de Imagem",
+        "Doença": null
+    },
+    "RX - DEFECOGRAMA": {
+        "Categoria": "Exame de Imagem",
+        "Doença": null
+    },
+    "RX - ESCANOMETRIA": {
+        "Categoria": "Exame de Imagem",
+        "Doença": null
+    },
+    "RX - ESOFAGO": {
+        "Categoria": "Exame de Imagem",
+        "Doença": null
+    },
+    "RX - ESOFAGO - HIATO - ESTOMAGO E DUODENO": {
+        "Categoria": "Exame de Imagem",
+        "Doença": null
+    },
+    "RX - ESTOMAGO E DUODENO": {
+        "Categoria": "Exame de Imagem",
+        "Doença": null
+    },
+    "RX - INCIDENCIA ADICIONAL DE COLUNA": {
+        "Categoria": "Exame de Imagem",
+        "Doença": null
+    },
+    "RX - INCIDENCIA ADICIONAL DE CRANIO OU FACE": {
+        "Categoria": "Exame de Imagem",
+        "Doença": null
+    },
+    "RX - INCIDENCIA ADICIONAL DE MEMBRO INFERIOR": {
+        "Categoria": "Exame de Imagem",
+        "Doença": null
+    },
+    "RX - INCIDENCIA ADICIONAL DE MEMBRO SUPERIOR": {
+        "Categoria": "Exame de Imagem",
+        "Doença": null
+    },
+    "RX - JOELHO": {
+        "Categoria": "Exame de Imagem",
+        "Doença": null
+    },
+    "RX - MAO OU QUIRODACTILO": {
+        "Categoria": "Exame de Imagem",
+        "Doença": null
+    },
+    "RX - MAOS E PUNHOS PARA IDADE OSSEA": {
+        "Categoria": "Exame de Imagem",
+        "Doença": null
+    },
+    "RX - OMOPLATA OU ESCAPULA": {
+        "Categoria": "Exame de Imagem",
+        "Doença": null
+    },
+    "RX - OSSOS DA FACE": {
+        "Categoria": "Exame de Imagem",
+        "Doença": null
+    },
+    "RX - PANORAMICA DOS MEMBROS INFERIORES": {
+        "Categoria": "Exame de Imagem",
+        "Doença": null
+    },
+    "RX - PATELA": {
+        "Categoria": "Exame de Imagem",
+        "Doença": null
+    },
+    "RX - PE OU PODODACTILO": {
+        "Categoria": "Exame de Imagem",
+        "Doença": null
+    },
+    "RX - PERNA": {
+        "Categoria": "Exame de Imagem",
+        "Doença": null
+    },
+    "RX - PUNHO": {
+        "Categoria": "Exame de Imagem",
+        "Doença": null
+    },
+    "RX - SACRO-COCCIX": {
+        "Categoria": "Exame de Imagem",
+        "Doença": null
+    },
+    "RX - SEIOS DA FACE": {
+        "Categoria": "Exame de Imagem",
+        "Doença": null
+    },
+    "RX - TORAX - 1 INCIDENCIA": {
+        "Categoria": "Exame de Imagem",
+        "Doença": null
+    },
+    "RX - TORAX - 2 INCIDENCIAS": {
+        "Categoria": "Exame de Imagem",
+        "Doença": null
+    },
+    "RX - TRANSITO COLONICO": {
+        "Categoria": "Exame de Imagem",
+        "Doença": null
+    },
+    "RX - TRANSITO E MORFOLOGIA DO DELGADO": {
+        "Categoria": "Exame de Imagem",
+        "Doença": null
+    },
+    "RX - VIDEODEGLUTOGRAMA": {
+        "Categoria": "Exame de Imagem",
+        "Doença": null
+    },
+    "S. HIV - EIE P/COMP HEMOTERAP-PESQ E/OU DOSAG": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": "HIV/AIDS"
+    },
+    "S. SIFILIS - EIE P/COMP HEMOTERAP- PESQ E/OU DOSAG": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": "Sífilis"
+    },
+    "S. SIFILIS HA P/COMP HEMOTERAP - PESQ E/OU DOSAG": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": "Sífilis"
+    },
+    "S.ANTI-HTLV-I + HTLV-II(DET CONJ)P/COMP HEMOTERAP": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": "HTLV"
+    },
+    "S.CHAGAS EIE P/COMP HEMOTERAPICO-PESQ E/OU DOSAG": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": "Doença de Chagas"
+    },
+    "S.CHAGAS HA P/COMP HEMOTERAP- PESQ E/OU DOSAG": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": "Doença de Chagas"
+    },
+    "S.HEPATB (HBSAG)RIE OU EIE P/COMP HEMOT-PESQ/DOSAG": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": "Hepatite B"
+    },
+    "S.HEPATB ANTI-HBC P/COMP HEMOTERAP-PESQ / DOSAG": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": "Hepatite B"
+    },
+    "S.HEPATC ANTI-HCV P/COMP HEMOTERAP-PESQ E/OU DOSAG": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": "Hepatite C"
+    },
+    "S.SIFILIS FTA-ABS P/COMP HEMOTERAP-PESQ / DOSAG": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": "Sífilis"
+    },
+    "S.SIFILIS VDRL P/COMP HEMOTERAP- PESQ E/OU DOSAG": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": "Sífilis"
+    },
+    "SALPINGECTOMIA UNI OU BILATERAL LAPAROSCOPICA": {
+        "Categoria": "Procedimento Cirúrgico",
+        "Doença": null
+    },
+    "SANGRIA TERAPEUTICA": {
+        "Categoria": "Procedimento Terapêutico",
+        "Doença": null
+    },
+    "SANGUE OCULTO PESQUISA DE": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": null
+    },
+    "SANGUE OCULTO, PESQUISA - NAS FEZES": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": null
+    },
+    "SARAMPO - ANTICORPOS IGG - PESQUISA E/OU DOSAGEM": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": "Sarampo"
+    },
+    "SARAMPO - ANTICORPOS IGM - PESQUISA E/OU DOSAGEM": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": "Sarampo"
+    },
+    "SARCOPTES SCABEI, PESQUISA": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": "Escabiose"
+    },
+    "SARS-COV-2 COVID-19 TESTE RAPIDO P/DETEC DE ANTIG": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": "COVID-19"
+    },
+    "SARS-COV-2(COVID-19)PESQ DE AC TOTAL (IGA/IGG/IGM)": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": "COVID-19"
+    },
+    "SECCAO LAPAROSCOPICA DE LIGAMENTOS UTERO-SACROS": {
+        "Categoria": "Procedimento Cirúrgico",
+        "Doença": null
+    },
+    "SELENIO, DOSAGEM": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": null
+    },
+    "SEPTOPLASTIA (QUALQUER TECNICA SEM VIDEO)": {
+        "Categoria": "Procedimento Cirúrgico",
+        "Doença": null
+    },
+    "SEROTONINA (SANGUE)": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": null
+    },
+    "SESSAO DE PSICOTERAP IND P/ PSICOLOGO TELESSAUDE": {
+        "Categoria": "Terapia",
+        "Doença": null
+    },
+    "SESSAO DE PSICOTERAPIA INDIVIDUAL": {
+        "Categoria": "Terapia",
+        "Doença": null
+    },
+    "SESSAO DE PSICOTERAPIA INDIVIDUAL POR PSICOLOGO": {
+        "Categoria": "Terapia",
+        "Doença": null
+    },
+    "SESSAO DE PSICOTERAPIA INFANTIL": {
+        "Categoria": "Terapia",
+        "Doença": null
+    },
+    "SESSAO INDIVIDUAL AMBULATORIAL DE FONOAUDIOLOGIA": {
+        "Categoria": "Terapia",
+        "Doença": null
+    },
+    "SESSAO INDIVIDUAL AMBULATORIAL, EM TERAPIA OCUPACIONAL": {
+        "Categoria": "Terapia",
+        "Doença": null
+    },
+    "SIFILIS - FTA-ABS-IGG - PESQUISA": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": "Sífilis"
+    },
+    "SIFILIS - FTA-ABS-IGM - PESQUISA": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": "Sífilis"
+    },
+    "SIFILIS - TPHA - PESQUISA": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": "Sífilis"
+    },
+    "SIFILIS - VDRL": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": "Sífilis"
+    },
+    "SIFILIS ANTICORPO TOTAL - PESQUISA E/OU DOSAGEM": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": "Sífilis"
+    },
+    "SIMPATECTOMIA": {
+        "Categoria": "Procedimento Cirúrgico",
+        "Doença": null
+    },
+    "SINOVECTOMIA PARCIAL OU SUBT - VIDEOARTR JOELHO": {
+        "Categoria": "Procedimento Cirúrgico",
+        "Doença": null
+    },
+    "SINUSECTOMIA MAXILAR - VIA END P/ VIDEO": {
+        "Categoria": "Procedimento Cirúrgico",
+        "Doença": null
+    },
+    "SINUSECTOMIA MAXILAR - VIA ENDONASAL": {
+        "Categoria": "Procedimento Cirúrgico",
+        "Doença": null
+    },
+    "SINUSECTOMIA MAXILAR - VIA ORAL (CALDWELL-LUC)": {
+        "Categoria": "Procedimento Cirúrgico",
+        "Doença": null
+    },
+    "SINUSOTOMIA ESFENOIDAL": {
+        "Categoria": "Procedimento Cirúrgico",
+        "Doença": null
+    },
+    "SINUSOTOMIA FRONTAL INTRANASAL": {
+        "Categoria": "Procedimento Cirúrgico",
+        "Doença": null
+    },
+    "SODIO - PESQUISA E/OU DOSAGEM": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": null
+    },
+    "SOMATOMEDINA C (IGF1) - PESQUISA E/OU DOSAGEM": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": null
+    },
+    "STREPTOCOCCUS B HEMOL CULTURA QUALQUER MATERIAL": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": null
+    },
+    "SUBSTANCIAS REDUTORAS NAS FEZES": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": null
+    },
+    "SULFATO DE DEHIDROEPIANDROSTERONA (S-DHEA)": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": null
+    },
+    "SUTURA PEQUENOS FERIMENTOS C/OU S/DESBRIDAMENTO": {
+        "Categoria": "Procedimento Cirúrgico",
+        "Doença": null
+    },
+    "T.PIRUVICA-TGP OU ALT P/COMP HEMOT-PESQ E/OU DOSAG": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": null
+    },
+    "T3 LIVRE - PESQUISA E/OU DOSAGEM": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": null
+    },
+    "T3 REVERSO - PESQUISA E/OU DOSAGEM": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": null
+    },
+    "T4 LIVRE - PESQUISA E/OU DOSAGEM": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": null
+    },
+    "TACROLIMUS - PESQUISA E/OU DOSAGEM": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": null
+    },
+    "TAXA DE EQUIPAMENTO": {
+        "Categoria": "Taxas e Serviços",
+        "Doença": null
+    },
+    "TAXAS E ALUGUEIS": {
+        "Categoria": "Taxas e Serviços",
+        "Doença": null
+    },
+    "TC - ABDOME SUPERIOR": {
+        "Categoria": "Exame de Imagem",
+        "Doença": null
+    },
+    "TC - ABDOME TOTAL (ABDOME SUP, PELVE E RETROPERIT)": {
+        "Categoria": "Exame de Imagem",
+        "Doença": null
+    },
+    "TC - ANGIOTOMOGRAFIA CORONARIANA": {
+        "Categoria": "Exame de Imagem",
+        "Doença": null
+    },
+    "TC - COL CERV OU DORSAL OU LOMBO-SACRA (ATE 3 SEG)": {
+        "Categoria": "Exame de Imagem",
+        "Doença": null
+    },
+    "TC - COLUNA - SEGMENTO ADICIONAL": {
+        "Categoria": "Exame de Imagem",
+        "Doença": null
+    },
+    "TC - CRANIO OU SELA TURCICA OU ORBITAS": {
+        "Categoria": "Exame de Imagem",
+        "Doença": null
+    },
+    "TC - FACE OU SEIOS DA FACE": {
+        "Categoria": "Exame de Imagem",
+        "Doença": null
+    },
+    "TC - MANDIBULA": {
+        "Categoria": "Exame de Imagem",
+        "Doença": null
+    },
+    "TC - MASTOIDES OU ORELHAS": {
+        "Categoria": "Exame de Imagem",
+        "Doença": null
+    },
+    "TC - MAXILAR": {
+        "Categoria": "Exame de Imagem",
+        "Doença": null
+    },
+    "TC - PELVE OU BACIA": {
+        "Categoria": "Exame de Imagem",
+        "Doença": null
+    },
+    "TC - TORAX": {
+        "Categoria": "Exame de Imagem",
+        "Doença": null
+    },
+    "TEMPO DE COAGULACAO - DETERMINACAO": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": null
+    },
+    "TEMPO DE PROTROMBINA - DETERMINACAO": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": null
+    },
+    "TEMPO DE SANGRAMENTO (DUKE) - DETERMINACAO": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": null
+    },
+    "TEMPO DE TROMBINA - DETERMINACAO": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": null
+    },
+    "TEMPO DE TROMBOPLASTINA PARCIAL ATIVADA": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": null
+    },
+    "TENDINITES, SINOVITES E ARTRITES - TRAT CIRURGICO": {
+        "Categoria": "Procedimento Cirúrgico",
+        "Doença": null
+    },
+    "TENOLISE NO TUNEL OSTEOFIBROSO": {
+        "Categoria": "Procedimento Cirúrgico",
+        "Doença": null
+    },
+    "TENOLISE/TENDONESE - TRATAMENTO CIRURGICO": {
+        "Categoria": "Procedimento Cirúrgico",
+        "Doença": null
+    },
+    "TENOPLASTIA / ENXERTO DE TENDAO - TRAT CIRURGICO": {
+        "Categoria": "Procedimento Cirúrgico",
+        "Doença": null
+    },
+    "TERAPIA IMUNOBIOLOGICA INTRAVENOSA (POR SESSAO) - AMBULATORIAL": {
+        "Categoria": "Terapia",
+        "Doença": null
+    },
+    "TERAPIA IMUNOBIOLOGICA SUBCUTANEA (POR SESSAO) AMBULATORIAL": {
+        "Categoria": "Terapia",
+        "Doença": null
+    },
+    "TERAPIA INALATORIA - POR NEBULIZACAO": {
+        "Categoria": "Terapia",
+        "Doença": null
+    },
+    "TERAPIA ONCOLOGICA - PLANEJ E 1° DIA DE TRAT": {
+        "Categoria": "Terapia",
+        "Doença": "Câncer"
+    },
+    "TERAPIA ONCOLOGICA - POR DIA SUBSEQ DE TRAT": {
+        "Categoria": "Terapia",
+        "Doença": "Câncer"
+    },
+    "TEST TOLER INSULINA OU HIPOGLIC ORAL (ATE 6 DOSAG)": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": null
+    },
+    "TESTE CUTANEO-ALERGICOS EPITELIS DE ANIMAIS": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": "Alergias"
+    },
+    "TESTE CUTANEO-ALERGICOS PARA LATEX": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": "Alergias"
+    },
+    "TESTE DA HISTAMINA (DUAS AREAS TESTADAS)": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": "Alergias"
+    },
+    "TESTE DE BRONCOPROVOCACAO": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": "Asma"
+    },
+    "TESTE DE COOMBS DIRETO": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": null
+    },
+    "TESTE DE ESTIMULO COM TSH RECOMBINANTE": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": null
+    },
+    "TESTE DE ESTIMULO DO GH P/EXERC (CADA DOSAG DE GH)": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": null
+    },
+    "TESTE DE ESTIMULO DO GH PELA INSULINA (4 DOSAGENS DE GH)": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": null
+    },
+    "TESTE DE ESTIMULO DO GH PELO GLUCAGON (4 DOSAGENS DE GH)": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": null
+    },
+    "TESTE DE PROTESE AUDITIVA": {
+        "Categoria": "Exame Clínico",
+        "Doença": null
+    },
+    "TESTE DE SENSIB DE CONTRASTE OU DE CORES - MONOC": {
+        "Categoria": "Exame Clínico",
+        "Doença": null
+    },
+    "TESTE DE SENSIBILIDADE MYCOBACTERIUM CEPAS DE BACTERIAS": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": null
+    },
+    "TESTE DO REFLEXO VERMELHO EM RN (TESTE DO OLHINHO)": {
+        "Categoria": "Exame Clínico",
+        "Doença": null
+    },
+    "TESTE ERGOMETRICO COMPUTAD (INCLUI ECG BASAL CONV)": {
+        "Categoria": "Exame Clínico",
+        "Doença": null
+    },
+    "TESTE ORAL DE TOLERANCIA A GLICOSE - 2 DOSAGENS": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": "Diabetes"
+    },
+    "TESTE PROVOCATIVO PARA GLAUCOMA - BINOCULAR": {
+        "Categoria": "Exame Clínico",
+        "Doença": "Glaucoma"
+    },
+    "TESTES CONT P/ FOTOSSENS - P/ SUBSTANCIA, ACIMA 30": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": "Alergias"
+    },
+    "TESTES CUTANEO-ALERGICOS PARA ALERGENOS DA POEIRA": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": "Alergias"
+    },
+    "TESTES CUTANEO-ALERGICOS PARA ALIMENTOS": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": "Alergias"
+    },
+    "TESTES CUTANEO-ALERGICOS PARA FUNGOS": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": "Alergias"
+    },
+    "TESTES CUTANEO-ALERGICOS PARA INSETOS HEMATOFAGOS": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": "Alergias"
+    },
+    "TESTES CUTANEO-ALERGICOS PARA POLENS": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": "Alergias"
+    },
+    "TESTES CUTANEOS DE CONTATO (PATCH TESTS)": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": "Alergias"
+    },
+    "TESTES DE CONTATO - ATE 30 SUBSTANCIAS": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": "Alergias"
+    },
+    "TESTES DE CONTATO - POR SUBSTANCIA, ACIMA DE 30": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": "Alergias"
+    },
+    "TESTES DE CONTATO POR FOTOSSENSIB - ATE 30 SUBST": {
+        "Categoria": "Exame Laboratorial",
+        "Doença": "Alergias"
+    },
+    "TESTES VESTIB, C/ PROVA CALORICA, C/ ELETRONISTAGM": {
+        "Categoria": "Exame de Equilíbrio",
+        "Doença": "Distúrbios vestibulares"
+    },
+    "TESTES VESTIBULARES, C/ VECTO-ELETRONISTAGMOGRAFIA": {
+        "Categoria": "Exame de Equilíbrio",
+        "Doença": "Distúrbios vestibulares"
+    },
+    "TESTOSTERONA LIVRE - PESQUISA E/OU DOSAGEM": {
+        "Categoria": "Exame Laboratorial Hormonal",
+        "Doença": null
+    },
+    "TESTOSTERONA TOTAL - PESQUISA E/OU DOSAGEM": {
+        "Categoria": "Exame Laboratorial Hormonal",
+        "Doença": null
+    },
+    "TILT TESTE": {
+        "Categoria": "Exame Cardiovascular",
+        "Doença": "Síncope"
+    },
+    "TIMPANOPLASTIA TIPO I - MIRINGOPLASTIA - UNILAT": {
+        "Categoria": "Cirurgia Otorrinolaringológica",
+        "Doença": "Perfuração da membrana timpânica"
+    },
+    "TIMPANOTOMIA PARA TUBO DE VENTILACAO - UNILATERAL": {
+        "Categoria": "Cirurgia Otorrinolaringológica",
+        "Doença": "Otite média com efusão"
+    },
+    "TIPO VELPEAU": {
+        "Categoria": "Procedimento Ortopédico",
+        "Doença": "Fraturas de clavícula"
+    },
+    "TIREOESTIMULANTE, HORMONIO (TSH)": {
+        "Categoria": "Exame Laboratorial Hormonal",
+        "Doença": null
+    },
+    "TIREOGLOBULINA - PESQUISA E/OU DOSAGEM": {
+        "Categoria": "Exame Laboratorial Hormonal",
+        "Doença": null
+    },
+    "TIROXINA (T4) - PESQUISA E/OU DOSAGEM": {
+        "Categoria": "Exame Laboratorial Hormonal",
+        "Doença": null
+    },
+    "TOALETE CIR - CORRECAO DE JOELHO FLEXO - TRAT CIR": {
+        "Categoria": "Cirurgia Ortopédica",
+        "Doença": "Deformidade do joelho"
+    },
+    "TOMOGRAFIA DE COERENCIA OPTICA - MONOCULAR": {
+        "Categoria": "Exame Oftalmológico",
+        "Doença": null
+    },
+    "TONOMETRIA - BINOCULAR": {
+        "Categoria": "Exame Oftalmológico",
+        "Doença": "Glaucoma"
+    },
+    "TORACOSTOMIA COM DRENAGEM PLEURAL FECHADA": {
+        "Categoria": "Procedimento Cirúrgico Torácico",
+        "Doença": "Pneumotórax"
+    },
+    "TOXOPLASMOSE IGG - PESQUISA E/OU DOSAGEM": {
+        "Categoria": "Exame Laboratorial Sorológico",
+        "Doença": "Toxoplasmose"
+    },
+    "TOXOPLASMOSE IGM - PESQUISA E/OU DOSAGEM": {
+        "Categoria": "Exame Laboratorial Sorológico",
+        "Doença": "Toxoplasmose"
+    },
+    "TRANSAMINASE OXALACETICA (AMINO TRANSFER ASPART)": {
+        "Categoria": "Exame Laboratorial Bioquímico",
+        "Doença": null
+    },
+    "TRANSAMINASE PIRUVICA (AMINO TRANSFER DE ALANINA)": {
+        "Categoria": "Exame Laboratorial Bioquímico",
+        "Doença": null
+    },
+    "TRANSFERRINA": {
+        "Categoria": "Exame Laboratorial Bioquímico",
+        "Doença": null
+    },
+    "TRANSFERRINA - PESQUISA E/OU DOSAGEM": {
+        "Categoria": "Exame Laboratorial Bioquímico",
+        "Doença": null
+    },
+    "TRANSFUSAO (ATO MEDICO DE ACOMPANHAMENTO)": {
+        "Categoria": "Procedimento Hematológico",
+        "Doença": null
+    },
+    "TRANSPOSICAO DE MAIS DE 1 TENDAO - TRAT CIRURGICO": {
+        "Categoria": "Cirurgia Ortopédica",
+        "Doença": null
+    },
+    "TRAT CIR/ARTR P/LUX ARTICUL TEMP-MANDIB P/ ARTROSC": {
+        "Categoria": "Cirurgia Bucomaxilofacial",
+        "Doença": "Luxação da articulação temporomandibular"
+    },
+    "TRAT DE ESCARAS OU ULCERACOES C/ENXERTO DE PELE": {
+        "Categoria": "Cirurgia Plástica",
+        "Doença": "Úlceras de pressão"
+    },
+    "TRATAMENTO CIRURGICO DA FISTULA LIQUORICA": {
+        "Categoria": "Neurocirurgia",
+        "Doença": "Fístula liquórica"
+    },
+    "TRATAMENTO MICROCIRURGICO DO CANAL VERTEBRAL ESTREITO POR SEGMENTO": {
+        "Categoria": "Neurocirurgia",
+        "Doença": "Estenose do canal vertebral"
+    },
+    "TRICOGRAMA": {
+        "Categoria": "Exame Dermatológico",
+        "Doença": null
+    },
+    "TRIGLICERIDEOS - PESQUISA E/OU DOSAGEM": {
+        "Categoria": "Exame Laboratorial Bioquímico",
+        "Doença": null
+    },
+    "TRIIODOTIRONINA (T3) - PESQUISA E/OU DOSAGEM": {
+        "Categoria": "Exame Laboratorial Hormonal",
+        "Doença": null
+    },
+    "TROPONINA - PESQUISA E/OU DOSAGEM": {
+        "Categoria": "Exame Laboratorial Cardíaco",
+        "Doença": null
+    },
+    "TROPONINA I OU T (CADA)": {
+        "Categoria": "Exame Laboratorial Cardíaco",
+        "Doença": null
+    },
+    "TSA E QUIMIOTERAPICOS, POR BACTERIA - NAO AUTOMAT": {
+        "Categoria": "Exame Laboratorial Microbiológico",
+        "Doença": null
+    },
+    "TT ERG CONV, 3 OU + DER SIMULT (INCL ECG BAS CONV)": {
+        "Categoria": "Exame Cardiovascular",
+        "Doença": null
+    },
+    "TT PEZINHO AMPL (TSH + 17OHPROG + PKU + TIR + HB)": {
+        "Categoria": "Exame Laboratorial Neonatal",
+        "Doença": null
+    },
+    "TTO HIPERATIV VESICAL:INJ INTRAVESICAL TOX BOTULI": {
+        "Categoria": "Procedimento Urológico",
+        "Doença": "Hiperatividade vesical"
+    },
+    "TTO TEA - ANAL DO COMP APLIC - P/ DIA C/ PSICOLOGO": {
+        "Categoria": "Terapia Comportamental",
+        "Doença": "Transtorno do Espectro Autista"
+    },
+    "TTO TEA - ANALIS DO COMPOR APLICADO - P/ DIA C/ TO": {
+        "Categoria": "Terapia Ocupacional",
+        "Doença": "Transtorno do Espectro Autista"
+    },
+    "TTO TEA - ANALISE DO COMP APLIC - P/ DIA C/ FONO": {
+        "Categoria": "Fonoaudiologia",
+        "Doença": "Transtorno do Espectro Autista"
+    },
+    "TTO TEA E OUTROS TRANS GLOB DO DES-P DIA C/ FISIO": {
+        "Categoria": "Fisioterapia",
+        "Doença": "Transtorno do Espectro Autista"
+    },
+    "TTO TEA E OUTROS TRANS GLOB DO DES-P DIA C/ PSICOM": {
+        "Categoria": "Psicomotricidade",
+        "Doença": "Transtorno do Espectro Autista"
+    },
+    "TU PARTES MOLES - EXERESE": {
+        "Categoria": "Cirurgia Geral",
+        "Doença": "Tumor de partes moles"
+    },
+    "TUMOR VESICAL - RESSECCAO ENDOSCOPICA": {
+        "Categoria": "Cirurgia Urológica",
+        "Doença": "Tumor de bexiga"
+    },
+    "TURBINECTOMIA OU TURBINOPLASTIA - UNILATERAL": {
+        "Categoria": "Cirurgia Otorrinolaringológica",
+        "Doença": "Hipertrofia de cornetos nasais"
+    },
+    "ULTRA-SONOGRAFIA DIAGNOSTICA - MONOCULAR": {
+        "Categoria": "Exame de Imagem",
+        "Doença": null
+    },
+    "ULTRASSOM COM DOPPLER ABDOME TOTAL E PELVE FEMININO": {
+        "Categoria": "Exame de Imagem",
+        "Doença": null
+    },
+    "UNIDADE DE CONCENTRADO DE HEMACIAS": {
+        "Categoria": "Procedimento Hematológico",
+        "Doença": null
+    },
+    "UREASE, TESTE RAPIDO PARA HELICOBACTER PYLORI": {
+        "Categoria": "Exame Laboratorial Microbiológico",
+        "Doença": "Infecção por Helicobacter pylori"
+    },
+    "UREIA - PESQUISA E/OU DOSAGEM": {
+        "Categoria": "Exame Laboratorial Bioquímico",
+        "Doença": null
+    },
+    "URETEROLISE LAPAROSCOPICA UNILATERAL": {
+        "Categoria": "Cirurgia Urológica",
+        "Doença": "Obstrução ureteral"
+    },
+    "URETEROLISE UNILATERAL": {
+        "Categoria": "Cirurgia Urológica",
+        "Doença": "Obstrução ureteral"
+    },
+    "URETEROPLASTIA LAPAROSCOPICA UNILATERAL": {
+        "Categoria": "Cirurgia Urológica",
+        "Doença": "Estenose ureteral"
+    },
+    "URETERORRENOLITOTRIPSIA FLEXIVEL A LASER UNILAT": {
+        "Categoria": "Cirurgia Urológica",
+        "Doença": "Cálculo ureteral"
+    },
+    "URETERORRENOLITOTRIPSIA RIGIDA UNILATERAL A LASER": {
+        "Categoria": "Cirurgia Urológica",
+        "Doença": "Cálculo ureteral"
+    },
+    "URETEROTOMIA INTERNA URETEROSCOPICA FLEXIVEL UNILATERAL": {
+        "Categoria": "Cirurgia Urológica",
+        "Doença": "Estenose ureteral"
+    },
+    "URETROPLASTIA ANTERIOR": {
+        "Categoria": "Cirurgia Urológica",
+        "Doença": "Estenose uretral"
+    },
+    "URODINAMICA COMPLETA": {
+        "Categoria": "Exame Urológico",
+        "Doença": null
+    },
+    "UROFLUXOMETRIA": {
+        "Categoria": "Exame Urológico",
+        "Doença": null
+    },
+    "US - ABD INF MASC (BEXIGA, PROST E VESIC SEMINAIS)": {
+        "Categoria": "Exame de Imagem",
+        "Doença": null
+    },
+    "US - ABDOME INF FEM (BEXIG, UTERO, OVARIO E ANEX)": {
+        "Categoria": "Exame de Imagem",
+        "Doença": null
+    },
+    "US - ABDOME SUPERIOR": {
+        "Categoria": "Exame de Imagem",
+        "Doença": null
+    },
+    "US - ABDOME TOTAL": {
+        "Categoria": "Exame de Imagem",
+        "Doença": null
+    },
+    "US - APARELHO URINARIO (RINS, URETERES E BEXIGA)": {
+        "Categoria": "Exame de Imagem",
+        "Doença": null
+    },
+    "US - ARTICULAR (POR ARTICULACAO)": {
+        "Categoria": "Exame de Imagem",
+        "Doença": null
+    },
+    "US - ECOCARDIOGRAMA COM DOPPLER CONVENCIONAL - CAROTIDAS": {
+        "Categoria": "Exame de Imagem Cardiovascular",
+        "Doença": null
+    },
+    "US - ECODOPPLER DE CAROTIDAS": {
+        "Categoria": "Exame de Imagem Cardiovascular",
+        "Doença": null
+    },
+    "US - ESTR SUPERF(CERV OU AXILAS OU MUSC OU TEND)": {
+        "Categoria": "Exame de Imagem",
+        "Doença": null
+    },
+    "US - GLANDULAS SALIVARES (TODAS)": {
+        "Categoria": "Exame de Imagem",
+        "Doença": null
+    },
+    "US - GLOBO OCULAR COM DOPPLER COLORIDO - BILATERAL": {
+        "Categoria": "Exame de Imagem Oftalmológico",
+        "Doença": null
+    },
+    "US - INTRA-OPERATORIO": {
+        "Categoria": "Exame de Imagem",
+        "Doença": null
+    },
+    "US - MAMAS": {
+        "Categoria": "Exame de Imagem",
+        "Doença": null
+    },
+    "US - OBSTETRICA": {
+        "Categoria": "Exame de Imagem Obstétrico",
+        "Doença": null
+    },
+    "US - OBSTETRICA 1A TRIMESTRE (ENDOVAGINAL)": {
+        "Categoria": "Exame de Imagem Obstétrico",
+        "Doença": null
+    },
+    "US - OBSTETRICA COM DOPPLER COLORIDO": {
+        "Categoria": "Exame de Imagem Obstétrico",
+        "Doença": null
+    },
+    "US - OBSTETRICA COM TRANSLUCENCIA NUCAL": {
+        "Categoria": "Exame de Imagem Obstétrico",
+        "Doença": null
+    },
+    "US - OBSTETRICA GESTACAO MULTIPLA: CADA FETO": {
+        "Categoria": "Exame de Imagem Obstétrico",
+        "Doença": null
+    },
+    "US - OBSTETRICA MORFOLOGICA": {
+        "Categoria": "Exame de Imagem Obstétrico",
+        "Doença": null
+    },
+    "US - OBSTETRICA: PERFIL BIOFISICO FETAL": {
+        "Categoria": "Exame de Imagem Obstétrico",
+        "Doença": null
+    },
+    "US - ORG SUPERF (TIREOID OU ESCR OU PENIS OU CRAN)": {
+        "Categoria": "Exame de Imagem",
+        "Doença": null
+    },
+    "US - PROST TRANSRET (NAO INCLUI ABDOME INF MASC)": {
+        "Categoria": "Exame de Imagem Urológico",
+        "Doença": null
+    },
+    "US - PROSTATA (VIA ABDOMINAL)": {
+        "Categoria": "Exame de Imagem Urológico",
+        "Doença": null
+    },
+    "US - PROSTATA TRANSRET C/BIOPSIA - MAIS DE 8 FRAG": {
+        "Categoria": "Exame de Imagem Urológico",
+        "Doença": null
+    },
+    "US - RETROPERITONIO (GRANDES VASOS OU ADRENAIS)": {
+        "Categoria": "Exame de Imagem",
+        "Doença": null
+    },
+    "US - TORACICO EXTRACARDIACO": {
+        "Categoria": "Exame de Imagem",
+        "Doença": null
+    },
+    "US - TRANSVAG P/CONTR OVULACAO (3 OU MAIS EXAMES)": {
+        "Categoria": "Exame de Imagem Ginecológico",
+        "Doença": null
+    },
+    "US - TRANSVAGINAL (UTERO, OVARIO, ANEXOS E VAGINA)": {
+        "Categoria": "Exame de Imagem Ginecológico",
+        "Doença": null
+    },
+    "UVULOPALATOFARINGOPLASTIA (QUALQUER TECNICA)": {
+        "Categoria": "Cirurgia Otorrinolaringológica",
+        "Doença": "Apneia do sono"
+    },
+    "VARICELA, IGG - PESQUISA E/OU DOSAGEM": {
+        "Categoria": "Exame Laboratorial Sorológico",
+        "Doença": "Varicela"
+    },
+    "VARICELA, IGM - PESQUISA E/OU DOSAGEM": {
+        "Categoria": "Exame Laboratorial Sorológico",
+        "Doença": "Varicela"
+    },
+    "VARICOCELE UNILATERAL - CORRECAO CIRURGICA": {
+        "Categoria": "Cirurgia Urológica",
+        "Doença": "Varicocele"
+    },
+    "VARIZES - TRATAMENTO CIRURGICO DE DOIS MEMBROS": {
+        "Categoria": "Cirurgia Vascular",
+        "Doença": "Varizes"
+    },
+    "VASECTOMIA UNILATERAL": {
+        "Categoria": "Cirurgia Urológica",
+        "Doença": null
+    },
+    "VECTOELETRONISTAGMOGRAFIA - COMPUTADORIZADA": {
+        "Categoria": "Exame de Equilíbrio",
+        "Doença": "Distúrbios vestibulares"
+    },
+    "VIDEO NASOLARINGOSCOPIA": {
+        "Categoria": "Exame Otorrinolaringológico",
+        "Doença": null
+    },
+    "VIDEO-ENDOSC ESFINCTER VELO-PALATINO C/ OTICA FLEX": {
+        "Categoria": "Exame Otorrinolaringológico",
+        "Doença": null
+    },
+    "VIDEO-ENDOSCOPIA NASO-SINUSAL COM OTICA FLEXIVEL": {
+        "Categoria": "Exame Otorrinolaringológico",
+        "Doença": null
+    },
+    "VIDEO-ENDOSCOPIA NASO-SINUSAL COM OTICA RIGIDA": {
+        "Categoria": "Exame Otorrinolaringológico",
+        "Doença": null
+    },
+    "VIDEO-FARINGO-LARINGOSCOPIA C/ ENDOSCOPIO FLEXIVEL": {
+        "Categoria": "Exame Otorrinolaringológico",
+        "Doença": null
+    },
+    "VIDEO-FARINGO-LARINGOSCOPIA COM ENDOSCOPIO RIGIDO": {
+        "Categoria": "Exame Otorrinolaringológico",
+        "Doença": null
+    },
+    "VIDEO-LARINGO-ESTROBOSCOPIA COM ENDOSCOPIO RIGIDO": {
+        "Categoria": "Exame Otorrinolaringológico",
+        "Doença": null
+    },
+    "VIGABATRINA, DOSAGEM": {
+        "Categoria": "Exame Laboratorial Farmacológico",
+        "Doença": "Epilepsia"
+    },
+    "VIRUS ZIKA - IGG ": {
+        "Categoria": "Exame Laboratorial Sorológico",
+        "Doença": "Zika"
+    },
+    "VIRUS ZIKA - IGM": {
+        "Categoria": "Exame Laboratorial Sorológico",
+        "Doença": "Zika"
+    },
+    "VIRUS ZIKA POR PCR": {
+        "Categoria": "Exame Laboratorial Molecular",
+        "Doença": "Zika"
+    },
+    "VISITA HOSPITALAR (PACIENTE INTERNADO)": {
+        "Categoria": "Atendimento Médico",
+        "Doença": null
+    },
+    "VIT \"D\" 25 HIDROXI, PESQUISA E/OU DOSAG (VIT D3)": {
+        "Categoria": "Exame Laboratorial Bioquímico",
+        "Doença": null
+    },
+    "VITAMINA A, PESQUISA E/OU DOSAGEM": {
+        "Categoria": "Exame Laboratorial Bioquímico",
+        "Doença": null
+    },
+    "VITAMINA B1, PESQUISA E/OU DOSAGEM": {
+        "Categoria": "Exame Laboratorial Bioquímico",
+        "Doença": null
+    },
+    "VITAMINA B12 - PESQUISA E/OU DOSAGEM": {
+        "Categoria": "Exame Laboratorial Bioquímico",
+        "Doença": null
+    },
+    "VITAMINA B2, PESQUISA E/OU DOSAGEM": {
+        "Categoria": "Exame Laboratorial Bioquímico",
+        "Doença": null
+    },
+    "VITAMINA B3, PESQUISA E/OU DOSAGEM": {
+        "Categoria": "Exame Laboratorial Bioquímico",
+        "Doença": null
+    },
+    "VITAMINA B6, PESQUISA E/OU DOSAGEM": {
+        "Categoria": "Exame Laboratorial Bioquímico",
+        "Doença": null
+    },
+    "VITAMINA D2, PESQUISA E/OU DOSAGEM": {
+        "Categoria": "Exame Laboratorial Bioquímico",
+        "Doença": null
+    },
+    "VITAMINA E - PESQUISA E/OU DOSAGEM": {
+        "Categoria": "Exame Laboratorial Bioquímico",
+        "Doença": null
+    },
+    "VULVOSCOPIA (VULVA E PERINEO)": {
+        "Categoria": "Exame Ginecológico",
+        "Doença": null
+    },
+    "VULVOSCOPIA POR VIDEO": {
+        "Categoria": "Exame Ginecológico",
+        "Doença": null
+    },
+    "WAALER-ROSE (FATOR REUMATOIDE)": {
+        "Categoria": "Exame Laboratorial Reumatológico",
+        "Doença": "Artrite reumatoide"
+    },
+    "ZINCO - PESQUISA E/OU DOSAGEM": {
+        "Categoria": "Exame Laboratorial Bioquímico",
+        "Doença": null
+    },
+    "LESOES MUSCULO TENDINOSAS - TRATAMENTO INCRUENTO": {
+        "Categoria": "Tratamento ortopédico conservador",
+        "Doença": "Lesões musculotendinosas"
+    }
+}
